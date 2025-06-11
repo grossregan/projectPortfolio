@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://www.techinterviewhandbook.org/",
+        "resourceName": "Tech Interview Handbook",
+        "imagePath": "assets/images/tech_handbook.png"
+    },
+    {
+        "url": "https://www.frontendinterviewhandbook.com/",
+        "resourceName": "Front End Interview Handbook",
+        "imagePath": "assets/images/front_end_handbook.png"
+    },
+    {
+        "url": "https://github.com/GauravSahani1417/Data-Science-Interview-Resources/blob/main/Machine%20Learning%20Fundamentals.pdf",
+        "resourceName": "Machine Learning Fundamentals",
+        "imagePath": "assets/images/robot_head.jpg"
+    },
+    {
+        "url": "https://www.kaggle.com/discussions/general/392330",
+        "resourceName": "6 Free Resources For SQL Interview Preparation",
+        "imagePath": "assets/images/robot_head.jpg"
+    }
+]

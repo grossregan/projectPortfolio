@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173565666745",
+    "project_id": "agile-avengers-final",
+    "storage_bucket": "agile-avengers-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173565666745:android:5ec96f94b502ef949e4268",
+        "android_client_info": {
+          "package_name": "com.example.cs_3541_final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJhdYiq2RKzyKZG854L2lxNftVj8KNxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

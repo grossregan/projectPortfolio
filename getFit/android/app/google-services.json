@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "593936166611",
+        "project_id": "agile-avengers-s25",
+        "storage_bucket": "agile-avengers-s25.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:593936166611:android:1c0e7388473384d2136e26",
+                "android_client_info": {
+                    "package_name": "com.agileavengers.getfit"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDX_MWgogjLAzDFHPK47HzpuqtASdVbZC4"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

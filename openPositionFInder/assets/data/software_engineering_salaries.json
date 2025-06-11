@@ -1,0 +1,6095 @@
+[
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 81000,
+    "company_location": "Manassas, VA",
+    "company_name": "ViewSoft",
+    "company_score": 4.8,
+    "date": "8d",
+    "job_id": "software_engineering_1"
+  },
+  {
+    "job_title": "Software Support Engineer",
+    "salary_in_usd": 82500,
+    "company_location": "Remote",
+    "company_name": "Workiva",
+    "company_score": 4.3,
+    "date": "2d",
+    "job_id": "software_engineering_2"
+  },
+  {
+    "job_title": "C# Software Engineer",
+    "salary_in_usd": 106500,
+    "company_location": "Cary, NC",
+    "company_name": "Garmin International, Inc.",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_3"
+  },
+  {
+    "job_title": "Software Engineer, Fullstack, 1+ Years of Experience",
+    "salary_in_usd": 121000,
+    "company_location": "Los Angeles, CA",
+    "company_name": "Snapchat",
+    "company_score": 3.5,
+    "date": "2d",
+    "job_id": "software_engineering_4"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 96500,
+    "company_location": "Seguin, TX",
+    "company_name": "Vitesco Technologies Group AG",
+    "company_score": 3.1,
+    "date": "2d",
+    "job_id": "software_engineering_5"
+  },
+  {
+    "job_title": "Backend Engineer II",
+    "salary_in_usd": 149000,
+    "company_location": "New York, NY",
+    "company_name": "Spotify",
+    "company_score": 3.9,
+    "date": "1d",
+    "job_id": "software_engineering_6"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "salary_in_usd": 85500,
+    "company_location": "Alpharetta, GA",
+    "company_name": "Infor",
+    "company_score": 4.0,
+    "date": "7d",
+    "job_id": "software_engineering_7"
+  },
+  {
+    "job_title": "Software Developers",
+    "salary_in_usd": 85500,
+    "company_location": "Farmington Hills, MI",
+    "company_name": "Amerisoft Corporation",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_8"
+  },
+  {
+    "job_title": "Software Engineer II (Backend, Health)",
+    "salary_in_usd": 121000,
+    "company_location": "Boston, MA",
+    "company_name": "WHOOP",
+    "company_score": 3.3,
+    "date": "10d",
+    "job_id": "software_engineering_9"
+  },
+  {
+    "job_title": "Sr. Software Engineer",
+    "salary_in_usd": 168000,
+    "company_location": "Remote",
+    "company_name": "PFF",
+    "company_score": 4.2,
+    "date": "1d",
+    "job_id": "software_engineering_10"
+  },
+  {
+    "job_title": "MTS Software Engineer",
+    "salary_in_usd": 101500,
+    "company_location": "San Francisco, CA",
+    "company_name": "Salesforce",
+    "company_score": 4.1,
+    "date": "5d",
+    "job_id": "software_engineering_11"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 66500,
+    "company_location": "Remote",
+    "company_name": "HealthMine Services, Inc.",
+    "company_score": 3.8,
+    "date": "1d",
+    "job_id": "software_engineering_12"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "salary_in_usd": 113000,
+    "company_location": "Aguadilla, PR",
+    "company_name": "Honeywell",
+    "company_score": 4.1,
+    "date": "2d",
+    "job_id": "software_engineering_13"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 102500,
+    "company_location": "Minneapolis-Saint Paul, MN",
+    "company_name": "Legrand AV",
+    "company_score": 3.7,
+    "date": "2d",
+    "job_id": "software_engineering_14"
+  },
+  {
+    "job_title": "Software Engineer, athenaCollector \u2013 RCM Rules",
+    "salary_in_usd": 240000,
+    "company_location": "Boston, MA",
+    "company_name": "Athenahealth",
+    "company_score": 4.0,
+    "date": "2d",
+    "job_id": "software_engineering_15"
+  },
+  {
+    "job_title": "Java Engineer",
+    "salary_in_usd": 112500,
+    "company_location": "Plantation, FL",
+    "company_name": "Amex",
+    "company_score": 4.1,
+    "date": "6d",
+    "job_id": "software_engineering_16"
+  },
+  {
+    "job_title": "Entry Level to Senior Level Software Developers",
+    "salary_in_usd": 106000,
+    "company_location": "Northborough, MA",
+    "company_name": "SOFT LABS NA",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_17"
+  },
+  {
+    "job_title": "Software Engineer, C++",
+    "salary_in_usd": 89000,
+    "company_location": "Los Angeles, CA",
+    "company_name": "Snapchat",
+    "company_score": 3.5,
+    "date": "2d",
+    "job_id": "software_engineering_18"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 179000,
+    "company_location": "Seattle, WA",
+    "company_name": "Hertz",
+    "company_score": 3.2,
+    "date": "2d",
+    "job_id": "software_engineering_19"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 117500,
+    "company_location": "Irving, TX",
+    "company_name": "7-Eleven, Inc.",
+    "company_score": 3.4,
+    "date": "1d",
+    "job_id": "software_engineering_20"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 68500,
+    "company_location": "Springfield, MA",
+    "company_name": "Summit Technologies, Inc.",
+    "company_score": 4.2,
+    "date": "10d",
+    "job_id": "software_engineering_21"
+  },
+  {
+    "job_title": "Software Development Engineer",
+    "salary_in_usd": 81500,
+    "company_location": "San Jose, CA",
+    "company_name": "Adobe",
+    "company_score": 2.9,
+    "date": "10d",
+    "job_id": "software_engineering_22"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "salary_in_usd": 153500,
+    "company_location": "Bedford, MA",
+    "company_name": "The MITRE Corporation",
+    "company_score": 4.0,
+    "date": "2d",
+    "job_id": "software_engineering_23"
+  },
+  {
+    "job_title": "Software Engineer - HA (Hybrid)",
+    "salary_in_usd": 137500,
+    "company_location": "Boston, MA",
+    "company_name": "Boston Children's Hospital",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_24"
+  },
+  {
+    "job_title": "Engineer - React/JavaScript",
+    "salary_in_usd": 133000,
+    "company_location": "Sunrise, FL",
+    "company_name": "Amex",
+    "company_score": 3.2,
+    "date": "5d",
+    "job_id": "software_engineering_25"
+  },
+  {
+    "job_title": "Software Engineer - Martech",
+    "salary_in_usd": 113500,
+    "company_location": "Carlisle, PA",
+    "company_name": "Ahold Delhaize USA",
+    "company_score": 4.0,
+    "date": "2d",
+    "job_id": "software_engineering_26"
+  },
+  {
+    "job_title": "Software Engineers",
+    "salary_in_usd": 93000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Artera Technologies",
+    "company_score": 4.2,
+    "date": "6d",
+    "job_id": "software_engineering_27"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 160000,
+    "company_location": "Lehi, UT",
+    "company_name": "Adobe",
+    "company_score": 4.3,
+    "date": "13d",
+    "job_id": "software_engineering_28"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 111000,
+    "company_location": "Remote",
+    "company_name": "Workiva",
+    "company_score": 3.5,
+    "date": "3d",
+    "job_id": "software_engineering_29"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 129500,
+    "company_location": "Mountain View, CA",
+    "company_name": "Samsung Electronics",
+    "company_score": 3.4,
+    "date": "2d",
+    "job_id": "software_engineering_30"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 122500,
+    "company_location": "Oxford, MA",
+    "company_name": "IPG Photonics",
+    "company_score": 3.7,
+    "date": "4d",
+    "job_id": "software_engineering_31"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 134500,
+    "company_location": "Chicago, IL",
+    "company_name": "Crafty",
+    "company_score": 3.3,
+    "date": "2d",
+    "job_id": "software_engineering_32"
+  },
+  {
+    "job_title": "Software Engineer III, Payments",
+    "salary_in_usd": 96000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Crunchyroll, LLC",
+    "company_score": 4.2,
+    "date": "13d",
+    "job_id": "software_engineering_33"
+  },
+  {
+    "job_title": "Backend Software Engineer",
+    "salary_in_usd": 150000,
+    "company_location": "Irvine, CA",
+    "company_name": "LEGO",
+    "company_score": 3.9,
+    "date": "9d",
+    "job_id": "software_engineering_34"
+  },
+  {
+    "job_title": "Experienced Software Engineer",
+    "salary_in_usd": 64500,
+    "company_location": "Des Moines, IA",
+    "company_name": "Principal Financial Group",
+    "company_score": 4.1,
+    "date": "2d",
+    "job_id": "software_engineering_35"
+  },
+  {
+    "job_title": "Security Software Engineer",
+    "salary_in_usd": 154000,
+    "company_location": "Phoenix, AZ",
+    "company_name": "INTEL",
+    "company_score": 3.4,
+    "date": "22d",
+    "job_id": "software_engineering_36"
+  },
+  {
+    "job_title": "Software Engineer, Unreal Engine",
+    "salary_in_usd": 101500,
+    "company_location": "Renton, WA",
+    "company_name": "Hasbro",
+    "company_score": 4.4,
+    "date": "18d",
+    "job_id": "software_engineering_37"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 150000,
+    "company_location": "Pittsburgh, PA",
+    "company_name": "Software Engineering Institute",
+    "company_score": 4.2,
+    "date": "30d+",
+    "job_id": "software_engineering_38"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "salary_in_usd": 89000,
+    "company_location": "Dayton, OH",
+    "company_name": "University of Dayton",
+    "company_score": 4.4,
+    "date": "2d",
+    "job_id": "software_engineering_39"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 188000,
+    "company_location": "Cambridge, MA",
+    "company_name": "MIT",
+    "company_score": 3.7,
+    "date": "17d",
+    "job_id": "software_engineering_40"
+  },
+  {
+    "job_title": "Software Dev Engineer - Computer Science",
+    "salary_in_usd": 138500,
+    "company_location": "Seattle, WA",
+    "company_name": "Amazon.com Services LLC",
+    "company_score": 5.0,
+    "date": "2d",
+    "job_id": "software_engineering_41"
+  },
+  {
+    "job_title": "Software Engineer - Libraries",
+    "salary_in_usd": 135000,
+    "company_location": "Morgantown, WV",
+    "company_name": "West Virginia University",
+    "company_score": 4.5,
+    "date": "4d",
+    "job_id": "software_engineering_42"
+  },
+  {
+    "job_title": "Software Engineer (All Levels)",
+    "salary_in_usd": 82000,
+    "company_location": "Chantilly, VA",
+    "company_name": "Noblis",
+    "company_score": 2.0,
+    "date": "1d",
+    "job_id": "software_engineering_43"
+  },
+  {
+    "job_title": "Software/Database Developer",
+    "salary_in_usd": 87500,
+    "company_location": "Burlington, VT",
+    "company_name": "CSL SOFTWARE SOLUTIONS",
+    "company_score": 4.1,
+    "date": "18d",
+    "job_id": "software_engineering_44"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 92500,
+    "company_location": "Bellevue, WA",
+    "company_name": "Chewy",
+    "company_score": 3.8,
+    "date": "2d",
+    "job_id": "software_engineering_45"
+  },
+  {
+    "job_title": "Software Test Engineer",
+    "salary_in_usd": 166500,
+    "company_location": "Dublin, OH",
+    "company_name": "ERPA",
+    "company_score": 4.3,
+    "date": "2d",
+    "job_id": "software_engineering_46"
+  },
+  {
+    "job_title": "Software Engineer, Incentive",
+    "salary_in_usd": 151500,
+    "company_location": "Seattle, WA",
+    "company_name": "Afterpay",
+    "company_score": 4.1,
+    "date": "3d",
+    "job_id": "software_engineering_47"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 107000,
+    "company_location": "Boston, MA",
+    "company_name": "Harvard University",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_48"
+  },
+  {
+    "job_title": "Software Development Engineer",
+    "salary_in_usd": 177500,
+    "company_location": "Fremont, CA",
+    "company_name": "Brooks Automation",
+    "company_score": 3.0,
+    "date": "4d",
+    "job_id": "software_engineering_49"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 135000,
+    "company_location": "Dallas, TX",
+    "company_name": "DLRdmv",
+    "company_score": 3.5,
+    "date": "2d",
+    "job_id": "software_engineering_50"
+  },
+  {
+    "job_title": "Software Engineer- Frontend",
+    "salary_in_usd": 85500,
+    "company_location": "Fremont, CA",
+    "company_name": "Movius Interactive Corporation",
+    "company_score": 3.3,
+    "date": "1d",
+    "job_id": "software_engineering_51"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 124000,
+    "company_location": "Burlington, MA",
+    "company_name": "State Street",
+    "company_score": 3.7,
+    "date": "3d",
+    "job_id": "software_engineering_52"
+  },
+  {
+    "job_title": "Junior Software Engineer",
+    "salary_in_usd": 95000,
+    "company_location": "Waterford, CT",
+    "company_name": "Sonalysts, Inc.",
+    "company_score": 3.8,
+    "date": "1d",
+    "job_id": "software_engineering_53"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 84000,
+    "company_location": "Somerset, WI",
+    "company_name": "Preco, LLC",
+    "company_score": 3.6,
+    "date": "4d",
+    "job_id": "software_engineering_54"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 95000,
+    "company_location": "Nashville, TN",
+    "company_name": "HealthStream",
+    "company_score": 3.6,
+    "date": "10d",
+    "job_id": "software_engineering_55"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 96500,
+    "company_location": "Troy, MI",
+    "company_name": "Aptiv plc",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_56"
+  },
+  {
+    "job_title": "Software Engineer - Epic Integrations",
+    "salary_in_usd": 117500,
+    "company_location": "Remote",
+    "company_name": "Zipongo",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_57"
+  },
+  {
+    "job_title": "Software Engineer - Snowpark",
+    "salary_in_usd": 131500,
+    "company_location": "Bellevue, WA",
+    "company_name": "Snowflake",
+    "company_score": 3.7,
+    "date": "2d",
+    "job_id": "software_engineering_58"
+  },
+  {
+    "job_title": "Software Engineer (Level 0 - Level II)",
+    "salary_in_usd": 125000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Staffed4U",
+    "company_score": 4.2,
+    "date": "10d",
+    "job_id": "software_engineering_59"
+  },
+  {
+    "job_title": "Software Engineer, Infrastructure",
+    "salary_in_usd": 106500,
+    "company_location": "Dallas, TX",
+    "company_name": "Topaz Labs",
+    "company_score": 3.8,
+    "date": "8d",
+    "job_id": "software_engineering_60"
+  },
+  {
+    "job_title": "Software Engineer - Wind",
+    "salary_in_usd": 80000,
+    "company_location": "Barre, VT",
+    "company_name": "WEG Electric Corp",
+    "company_score": 4.3,
+    "date": "6d",
+    "job_id": "software_engineering_61"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 102500,
+    "company_location": "Atlanta, GA",
+    "company_name": "Brown and Caldwell",
+    "company_score": 4.3,
+    "date": "3d",
+    "job_id": "software_engineering_62"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 103000,
+    "company_location": "Melville, NY",
+    "company_name": "Vertafore",
+    "company_score": 3.7,
+    "date": "2d",
+    "job_id": "software_engineering_63"
+  },
+  {
+    "job_title": "Simulation Software Engineer (ADV00095I)",
+    "salary_in_usd": 83000,
+    "company_location": "Kennedy Sp Ct, FL",
+    "company_name": "Aerodyne Industries, LLC",
+    "company_score": 3.1,
+    "date": "1d",
+    "job_id": "software_engineering_64"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 6500,
+    "company_location": "Dahlgren, VA",
+    "company_name": "KAIROS Inc",
+    "company_score": 3.5,
+    "date": "16d",
+    "job_id": "software_engineering_65"
+  },
+  {
+    "job_title": "Senior Software Engineer - Photo AI",
+    "salary_in_usd": 87000,
+    "company_location": "Dallas, TX",
+    "company_name": "Topaz Labs",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_66"
+  },
+  {
+    "job_title": "Software Engineer- 826245",
+    "salary_in_usd": 72000,
+    "company_location": "Stennis Space Center, MS",
+    "company_name": "S3",
+    "company_score": 3.8,
+    "date": "20d",
+    "job_id": "software_engineering_67"
+  },
+  {
+    "job_title": "Software Engineer Sr",
+    "salary_in_usd": 92500,
+    "company_location": "Los Angeles, CA",
+    "company_name": "J. Paul Getty Trust, The",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_68"
+  },
+  {
+    "job_title": "Software Engineer - ML Performance / HPC",
+    "salary_in_usd": 104500,
+    "company_location": "Dallas, TX",
+    "company_name": "Topaz Labs",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_69"
+  },
+  {
+    "job_title": "Senior Software Engineer, Orders Team",
+    "salary_in_usd": 118000,
+    "company_location": "Seattle, WA",
+    "company_name": "Rover.com",
+    "company_score": 3.2,
+    "date": "25d",
+    "job_id": "software_engineering_70"
+  },
+  {
+    "job_title": "Research Software Engineer",
+    "salary_in_usd": 167500,
+    "company_location": "Eugene, OR",
+    "company_name": "University of Oregon",
+    "company_score": 3.8,
+    "date": "2d",
+    "job_id": "software_engineering_71"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 145000,
+    "company_location": "Newark, DE",
+    "company_name": "AHU Technologies",
+    "company_score": 4.6,
+    "date": "12d",
+    "job_id": "software_engineering_72"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 205000,
+    "company_location": "Pittsburgh, PA",
+    "company_name": "ALSTOM",
+    "company_score": 3.4,
+    "date": "2d",
+    "job_id": "software_engineering_73"
+  },
+  {
+    "job_title": "Junior Software Systems Engineer",
+    "salary_in_usd": 135000,
+    "company_location": "Washington, DC",
+    "company_name": "ISPA Technology",
+    "company_score": 3.0,
+    "date": "23d",
+    "job_id": "software_engineering_74"
+  },
+  {
+    "job_title": "Associate Software Engineer - Data Analytics",
+    "salary_in_usd": 121000,
+    "company_location": "King of Prussia, PA",
+    "company_name": "Universal Health Services, Inc. - Corporate Office",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_75"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "salary_in_usd": 125500,
+    "company_location": "Morrisville, NC",
+    "company_name": "Relias",
+    "company_score": 3.8,
+    "date": "4d",
+    "job_id": "software_engineering_76"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 163500,
+    "company_location": "Irvine, CA",
+    "company_name": "Tickrs Clearing",
+    "company_score": 3.1,
+    "date": "2d",
+    "job_id": "software_engineering_77"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 98000,
+    "company_location": "Fort Meade, MD",
+    "company_name": "CTC Group",
+    "company_score": 4.8,
+    "date": "30d+",
+    "job_id": "software_engineering_78"
+  },
+  {
+    "job_title": "Jr. Deployment Engineer",
+    "salary_in_usd": 126000,
+    "company_location": "Arlington, VA",
+    "company_name": "GoTab Inc",
+    "company_score": 3.5,
+    "date": "10d",
+    "job_id": "software_engineering_79"
+  },
+  {
+    "job_title": "SOFTWARE DEVELOPERS",
+    "salary_in_usd": 160000,
+    "company_location": "Township of Hamilton, NJ",
+    "company_name": "ILOGIC INC",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_80"
+  },
+  {
+    "job_title": "Software Engineer II - Service Now",
+    "salary_in_usd": 89500,
+    "company_location": "Jacksonville, FL",
+    "company_name": "CSX",
+    "company_score": 3.8,
+    "date": "23d",
+    "job_id": "software_engineering_81"
+  },
+  {
+    "job_title": "Junior Software Engineer",
+    "salary_in_usd": 95000,
+    "company_location": "Fort Meade, MD",
+    "company_name": "Synergy ECP",
+    "company_score": 4.4,
+    "date": "2d",
+    "job_id": "software_engineering_82"
+  },
+  {
+    "job_title": "Software Engineer III",
+    "salary_in_usd": 84500,
+    "company_location": "Wilmington, DE",
+    "company_name": "M&T Bank",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_83"
+  },
+  {
+    "job_title": "Software Engineer III",
+    "salary_in_usd": 146500,
+    "company_location": "Menlo Park, CA",
+    "company_name": "Cardlytics",
+    "company_score": 5.0,
+    "date": "18d",
+    "job_id": "software_engineering_84"
+  },
+  {
+    "job_title": "AWS Cloud Engineer",
+    "salary_in_usd": 106500,
+    "company_location": "Richmond, VA",
+    "company_name": "Stefanini, Inc",
+    "company_score": 3.8,
+    "date": "1d",
+    "job_id": "software_engineering_85"
+  },
+  {
+    "job_title": "C Software Engineer",
+    "salary_in_usd": 112000,
+    "company_location": "Pittsburgh, PA",
+    "company_name": "Innovative Systems",
+    "company_score": 3.8,
+    "date": "9d",
+    "job_id": "software_engineering_86"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 187000,
+    "company_location": "Saint Paul, MN",
+    "company_name": "Sagitec",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_87"
+  },
+  {
+    "job_title": "Sr. Software Engineer",
+    "salary_in_usd": 133000,
+    "company_location": "Atlanta, GA",
+    "company_name": "Innovien Solutions",
+    "company_score": 3.3,
+    "date": "6d",
+    "job_id": "software_engineering_88"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 99500,
+    "company_location": "Fairborn, OH",
+    "company_name": "Riverside Research Institute",
+    "company_score": 4.8,
+    "date": "3d",
+    "job_id": "software_engineering_89"
+  },
+  {
+    "job_title": "Java Software Engineer",
+    "salary_in_usd": 123500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Staffed4U",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_90"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 106500,
+    "company_location": "Chicago, IL",
+    "company_name": "Uber Freight",
+    "company_score": 5.0,
+    "date": "1d",
+    "job_id": "software_engineering_91"
+  },
+  {
+    "job_title": "Software Engineer - Database Engineering",
+    "salary_in_usd": 105500,
+    "company_location": "Bellevue, WA",
+    "company_name": "Snowflake",
+    "company_score": 4.1,
+    "date": "4d",
+    "job_id": "software_engineering_92"
+  },
+  {
+    "job_title": "Jr DevOps Engineer",
+    "salary_in_usd": 82500,
+    "company_location": "Dallas, TX",
+    "company_name": "Likewize",
+    "company_score": 4.0,
+    "date": "2d",
+    "job_id": "software_engineering_93"
+  },
+  {
+    "job_title": "Senior Software Engineer II",
+    "salary_in_usd": 213000,
+    "company_location": "Cincinnati, OH",
+    "company_name": "MassMutual Ascend",
+    "company_score": 4.0,
+    "date": "19d",
+    "job_id": "software_engineering_94"
+  },
+  {
+    "job_title": "React Developer",
+    "salary_in_usd": 106000,
+    "company_location": "Remote",
+    "company_name": "Washington DC government",
+    "company_score": 4.7,
+    "date": "2d",
+    "job_id": "software_engineering_95"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 102000,
+    "company_location": "Quantico, VA",
+    "company_name": "AnaVation",
+    "company_score": 3.7,
+    "date": "3d",
+    "job_id": "software_engineering_96"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 112500,
+    "company_location": "Canton, MI",
+    "company_name": "3R Info",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_97"
+  },
+  {
+    "job_title": "Software Developer (TypeScript/JavaScript)",
+    "salary_in_usd": 101000,
+    "company_location": "Chantilly, VA",
+    "company_name": "Strategic Mission Elements",
+    "company_score": 3.5,
+    "date": "26d",
+    "job_id": "software_engineering_98"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 126000,
+    "company_location": "Patrick AFB, FL",
+    "company_name": "IPSecure, Inc.",
+    "company_score": 3.9,
+    "date": "4d",
+    "job_id": "software_engineering_99"
+  },
+  {
+    "job_title": "Software Engineer - Front-end (Solventum)",
+    "salary_in_usd": 160000,
+    "company_location": "Maplewood, MN",
+    "company_name": "Solventum",
+    "company_score": 3.6,
+    "date": "3d",
+    "job_id": "software_engineering_100"
+  },
+  {
+    "job_title": "Cloud Engineer",
+    "salary_in_usd": 187500,
+    "company_location": "Boston, MA",
+    "company_name": "Focus Technology Solutions Inc",
+    "company_score": 3.0,
+    "date": "4d",
+    "job_id": "software_engineering_101"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 100000,
+    "company_location": "Warrenton, VA",
+    "company_name": "Two Six Technologies",
+    "company_score": 4.1,
+    "date": "17d",
+    "job_id": "software_engineering_102"
+  },
+  {
+    "job_title": "Junior Software Developer",
+    "salary_in_usd": 218500,
+    "company_location": "Phoenix, AZ",
+    "company_name": "CPS Insurance Services",
+    "company_score": 3.4,
+    "date": "1d",
+    "job_id": "software_engineering_103"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 148000,
+    "company_location": "Melbourne, FL",
+    "company_name": "Cephas",
+    "company_score": 3.1,
+    "date": "4d",
+    "job_id": "software_engineering_104"
+  },
+  {
+    "job_title": "Software Engineer - Java Springboot (DT)",
+    "salary_in_usd": 118000,
+    "company_location": "Whitehouse Station, NJ",
+    "company_name": "Chubb",
+    "company_score": 3.4,
+    "date": "3d",
+    "job_id": "software_engineering_105"
+  },
+  {
+    "job_title": "Software Engineer III - Mobile (Multiple Openings)",
+    "salary_in_usd": 130500,
+    "company_location": "San Francisco, CA",
+    "company_name": "Uber Freight",
+    "company_score": 3.6,
+    "date": "9d",
+    "job_id": "software_engineering_106"
+  },
+  {
+    "job_title": "Assoc Software Engineer",
+    "salary_in_usd": 107000,
+    "company_location": "Jackson, MI",
+    "company_name": "Consumers Energy",
+    "company_score": 4.8,
+    "date": "6d",
+    "job_id": "software_engineering_107"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 108000,
+    "company_location": "Hopkins, MN",
+    "company_name": "U.S. Bank National Association",
+    "company_score": 3.4,
+    "date": "1d",
+    "job_id": "software_engineering_108"
+  },
+  {
+    "job_title": "Software Engineer IV",
+    "salary_in_usd": 107000,
+    "company_location": "San Diego, CA",
+    "company_name": "MedImpact Healthcare Systems",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_109"
+  },
+  {
+    "job_title": "Graduate Software Engineer",
+    "salary_in_usd": 80000,
+    "company_location": "Chicago, IL",
+    "company_name": "IMC Financial Markets",
+    "company_score": 3.1,
+    "date": "17d",
+    "job_id": "software_engineering_110"
+  },
+  {
+    "job_title": "Software Engineer - Normalization",
+    "salary_in_usd": 173000,
+    "company_location": "Seattle, WA",
+    "company_name": "Truveta",
+    "company_score": 4.0,
+    "date": "3d",
+    "job_id": "software_engineering_111"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 82500,
+    "company_location": "Egg Harbor Township, NJ",
+    "company_name": "Signature Science, LLC",
+    "company_score": 4.2,
+    "date": "23d",
+    "job_id": "software_engineering_112"
+  },
+  {
+    "job_title": "Web Developers",
+    "salary_in_usd": 154000,
+    "company_location": "Frederick, MD",
+    "company_name": "JYG Innovations",
+    "company_score": 4.1,
+    "date": "2d",
+    "job_id": "software_engineering_113"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 141500,
+    "company_location": "Sayreville, NJ",
+    "company_name": "Vensit",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_114"
+  },
+  {
+    "job_title": "Junior Software Engineer",
+    "salary_in_usd": 130500,
+    "company_location": "Fort Meade, MD",
+    "company_name": "Visionist, Inc.",
+    "company_score": 3.5,
+    "date": "10d",
+    "job_id": "software_engineering_115"
+  },
+  {
+    "job_title": "Senior Software Development Engineer",
+    "salary_in_usd": 130000,
+    "company_location": "Seattle, WA",
+    "company_name": "Clearwater Analytics",
+    "company_score": 3.6,
+    "date": "9d",
+    "job_id": "software_engineering_116"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 94000,
+    "company_location": "Crystal City, VA",
+    "company_name": "Technical Intelligence Solutions, LLC",
+    "company_score": 3.0,
+    "date": "2d",
+    "job_id": "software_engineering_117"
+  },
+  {
+    "job_title": "Associate Software Development Engineer - Colleague Experience",
+    "salary_in_usd": 120000,
+    "company_location": "Woonsocket, RI",
+    "company_name": "CVS Health",
+    "company_score": 3.8,
+    "date": "29d",
+    "job_id": "software_engineering_118"
+  },
+  {
+    "job_title": "Associate Engineer, Analytics",
+    "salary_in_usd": 98500,
+    "company_location": "West Bend, WI",
+    "company_name": "Delta Defense, LLC",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_119"
+  },
+  {
+    "job_title": "Backend Software Engineer",
+    "salary_in_usd": 200000,
+    "company_location": "Richmond, VA",
+    "company_name": "Koalafi",
+    "company_score": 3.2,
+    "date": "13d",
+    "job_id": "software_engineering_120"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 106500,
+    "company_location": "Baltimore, MD",
+    "company_name": "No.Inc",
+    "company_score": 5.0,
+    "date": "5d",
+    "job_id": "software_engineering_121"
+  },
+  {
+    "job_title": "Software Engineer III",
+    "salary_in_usd": 123500,
+    "company_location": "Seattle, WA",
+    "company_name": "f5",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_122"
+  },
+  {
+    "job_title": "Software Engineer, Product",
+    "salary_in_usd": 90000,
+    "company_location": "Berkeley, CA",
+    "company_name": "Arcadia Science",
+    "company_score": 3.3,
+    "date": "6d",
+    "job_id": "software_engineering_123"
+  },
+  {
+    "job_title": "Firmware (Linux) Dev I",
+    "salary_in_usd": 114000,
+    "company_location": "Remote",
+    "company_name": "Artint Knowledge Tech",
+    "company_score": 3.5,
+    "date": "5d",
+    "job_id": "software_engineering_124"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 135000,
+    "company_location": "Patuxent River, MD",
+    "company_name": "Castellum Inc",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_125"
+  },
+  {
+    "job_title": "Senior Software Engineer, Core Experiences",
+    "salary_in_usd": 120000,
+    "company_location": "Remote",
+    "company_name": "Instacart",
+    "company_score": 3.7,
+    "date": "12d",
+    "job_id": "software_engineering_126"
+  },
+  {
+    "job_title": "Software Engineer (RxR)",
+    "salary_in_usd": 98500,
+    "company_location": "Deerfield, IL",
+    "company_name": "WALGREENS",
+    "company_score": 4.4,
+    "date": "1d",
+    "job_id": "software_engineering_127"
+  },
+  {
+    "job_title": "Software Engineer III",
+    "salary_in_usd": 99500,
+    "company_location": "Pittsburgh, PA",
+    "company_name": "Duquesne Light",
+    "company_score": 3.6,
+    "date": "16d",
+    "job_id": "software_engineering_128"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 94500,
+    "company_location": "San Jose, CA",
+    "company_name": "Super Micro Computer",
+    "company_score": 3.0,
+    "date": "30d+",
+    "job_id": "software_engineering_129"
+  },
+  {
+    "job_title": "Software Engineer Senior \u00e2\u20ac\u201c Azure",
+    "salary_in_usd": 227500,
+    "company_location": "Minneapolis, MN",
+    "company_name": "UCare",
+    "company_score": 4.4,
+    "date": "19d",
+    "job_id": "software_engineering_130"
+  },
+  {
+    "job_title": "Software Engineer 0",
+    "salary_in_usd": 99000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "CyberCore Technologies",
+    "company_score": 2.6,
+    "date": "9d",
+    "job_id": "software_engineering_131"
+  },
+  {
+    "job_title": "AWS DevOps Engineer",
+    "salary_in_usd": 80000,
+    "company_location": "Chicago, IL",
+    "company_name": "CoinFlip",
+    "company_score": 3.5,
+    "date": "25d",
+    "job_id": "software_engineering_132"
+  },
+  {
+    "job_title": "SOFTWARE DEVELOPERS (021)",
+    "salary_in_usd": 138500,
+    "company_location": "Plainsboro, NJ",
+    "company_name": "BI Labs",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_133"
+  },
+  {
+    "job_title": "Sr Software Engineer",
+    "salary_in_usd": 128500,
+    "company_location": "Remote",
+    "company_name": "Cultura Technologies Inc",
+    "company_score": 4.4,
+    "date": "1d",
+    "job_id": "software_engineering_134"
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "salary_in_usd": 103500,
+    "company_location": "Denver, CO",
+    "company_name": "Excelacom",
+    "company_score": 4.0,
+    "date": "3d",
+    "job_id": "software_engineering_135"
+  },
+  {
+    "job_title": "Software Engineer (Hybrid) - 19943",
+    "salary_in_usd": 161500,
+    "company_location": "Columbia, MD",
+    "company_name": "Huntington Ingalls Industries Inc.",
+    "company_score": 3.3,
+    "date": "11d",
+    "job_id": "software_engineering_136"
+  },
+  {
+    "job_title": "Research Software Engineer",
+    "salary_in_usd": 367500,
+    "company_location": "Houston, TX",
+    "company_name": "Intuitive Machines LLC",
+    "company_score": 3.8,
+    "date": "10d",
+    "job_id": "software_engineering_137"
+  },
+  {
+    "job_title": "Software Engineer - Career",
+    "salary_in_usd": 120500,
+    "company_location": "Alpharetta, GA",
+    "company_name": "Equifax",
+    "company_score": 4.4,
+    "date": "3d",
+    "job_id": "software_engineering_138"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 139000,
+    "company_location": "San Jose, CA",
+    "company_name": "Super Micro Computer",
+    "company_score": 4.0,
+    "date": "19d",
+    "job_id": "software_engineering_139"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 100000,
+    "company_location": "Remote",
+    "company_name": "Mailprotector",
+    "company_score": 4.6,
+    "date": "2d",
+    "job_id": "software_engineering_140"
+  },
+  {
+    "job_title": "Elixir Software Engineer",
+    "salary_in_usd": 212500,
+    "company_location": "McKinney, TX",
+    "company_name": "Blockit Now Inc",
+    "company_score": 3.8,
+    "date": "5d",
+    "job_id": "software_engineering_141"
+  },
+  {
+    "job_title": "Software Systems Engineer TS/SCI CI poly",
+    "salary_in_usd": 97500,
+    "company_location": "Las Cruces, NM",
+    "company_name": "TENICA and Associates LLC",
+    "company_score": 4.1,
+    "date": "5d",
+    "job_id": "software_engineering_142"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 180000,
+    "company_location": "Greensboro, NC",
+    "company_name": "Arch Capital Group Ltd.",
+    "company_score": 3.9,
+    "date": "5d",
+    "job_id": "software_engineering_143"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 103500,
+    "company_location": "Stennis Space Center, MS",
+    "company_name": "Lynker Corporation",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_144"
+  },
+  {
+    "job_title": "Senior Software Engineer, Full Stack, YouTube",
+    "salary_in_usd": 88500,
+    "company_location": "New York, NY",
+    "company_name": "YouTube",
+    "company_score": 3.2,
+    "date": "1d",
+    "job_id": "software_engineering_145"
+  },
+  {
+    "job_title": "Senior Software Engineer - US",
+    "salary_in_usd": 132500,
+    "company_location": "Remote",
+    "company_name": "Perforce Software",
+    "company_score": 4.2,
+    "date": "2d",
+    "job_id": "software_engineering_146"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 87000,
+    "company_location": "Atlanta, GA",
+    "company_name": "Featurespace",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_147"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 125000,
+    "company_location": "Columbia, MD",
+    "company_name": "Bigbear.ai",
+    "company_score": 3.7,
+    "date": "9d",
+    "job_id": "software_engineering_148"
+  },
+  {
+    "job_title": "AWS Cloud Engineer",
+    "salary_in_usd": 108500,
+    "company_location": "Avon, CT",
+    "company_name": "Benistar Administrative Services, Inc.",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_149"
+  },
+  {
+    "job_title": "Senior Software Engineer - Enterprise People Technology",
+    "salary_in_usd": 138500,
+    "company_location": "Bentonville, AR",
+    "company_name": "Intellisource Colorado LLC",
+    "company_score": 3.1,
+    "date": "3d",
+    "job_id": "software_engineering_150"
+  },
+  {
+    "job_title": "Post Software Engineer",
+    "salary_in_usd": 153500,
+    "company_location": "Englewood Cliffs, NJ",
+    "company_name": "NBCUniversal",
+    "company_score": 4.4,
+    "date": "3d",
+    "job_id": "software_engineering_151"
+  },
+  {
+    "job_title": "Engineer (Software)",
+    "salary_in_usd": 115500,
+    "company_location": "Redstone Arsenal, AL",
+    "company_name": "Thompson Gray Inc.",
+    "company_score": 4.7,
+    "date": "30d+",
+    "job_id": "software_engineering_152"
+  },
+  {
+    "job_title": "Software Engineer - CUDL Modernization",
+    "salary_in_usd": 95000,
+    "company_location": "Remote",
+    "company_name": "Origence",
+    "company_score": 4.0,
+    "date": "1d",
+    "job_id": "software_engineering_153"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 138000,
+    "company_location": "Jacksonville, FL",
+    "company_name": "Medius",
+    "company_score": 3.6,
+    "date": "30d+",
+    "job_id": "software_engineering_154"
+  },
+  {
+    "job_title": "Principal Software Engineer",
+    "salary_in_usd": 92000,
+    "company_location": "Seattle, WA",
+    "company_name": "f5",
+    "company_score": 3.8,
+    "date": "4d",
+    "job_id": "software_engineering_155"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 111000,
+    "company_location": "Remote",
+    "company_name": "CNH Industrial",
+    "company_score": 3.8,
+    "date": "2d",
+    "job_id": "software_engineering_156"
+  },
+  {
+    "job_title": "Software Engineers",
+    "salary_in_usd": 185000,
+    "company_location": "Edison, NJ",
+    "company_name": "Fusion Plus Solutions Inc.",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_157"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 133000,
+    "company_location": "Franklin, WI",
+    "company_name": "Northwestern Mutual",
+    "company_score": 3.8,
+    "date": "4d",
+    "job_id": "software_engineering_158"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "salary_in_usd": 100000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Vibrint",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_159"
+  },
+  {
+    "job_title": "Sr Assoc Software Engineer",
+    "salary_in_usd": 110500,
+    "company_location": "Avon, CT",
+    "company_name": "Hubbell Incorporated",
+    "company_score": 3.4,
+    "date": "1d",
+    "job_id": "software_engineering_160"
+  },
+  {
+    "job_title": "Junior Computer/Software Engineer (Job ID: 3433)",
+    "salary_in_usd": 158000,
+    "company_location": "Huntsville, AL",
+    "company_name": "Valkyrie Enterprises",
+    "company_score": 3.8,
+    "date": "23d",
+    "job_id": "software_engineering_161"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 104000,
+    "company_location": "Herndon, VA",
+    "company_name": "Two Six Technologies",
+    "company_score": 4.5,
+    "date": "30d+",
+    "job_id": "software_engineering_162"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 103500,
+    "company_location": "Redmond, WA",
+    "company_name": "Microsoft",
+    "company_score": 4.4,
+    "date": "4d",
+    "job_id": "software_engineering_163"
+  },
+  {
+    "job_title": "Senior DevOps Engineer - Los Angeles",
+    "salary_in_usd": 153500,
+    "company_location": "Los Angeles, CA",
+    "company_name": "Ateliere Creative Technologies",
+    "company_score": 4.1,
+    "date": "2d",
+    "job_id": "software_engineering_164"
+  },
+  {
+    "job_title": "Software Engineer, Hardware Health",
+    "salary_in_usd": 99500,
+    "company_location": "San Francisco, CA",
+    "company_name": "OpenAI",
+    "company_score": 3.1,
+    "date": "5d",
+    "job_id": "software_engineering_165"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 132500,
+    "company_location": "Tysons Corner, VA",
+    "company_name": "Two Six Technologies",
+    "company_score": 2.7,
+    "date": "17d",
+    "job_id": "software_engineering_166"
+  },
+  {
+    "job_title": "Software Engineer (US Remote Available)",
+    "salary_in_usd": 125000,
+    "company_location": "Remote",
+    "company_name": "Splunk",
+    "company_score": 3.5,
+    "date": "3d",
+    "job_id": "software_engineering_167"
+  },
+  {
+    "job_title": "Node JS",
+    "salary_in_usd": 95500,
+    "company_location": "Austin, TX",
+    "company_name": "The Wolf Works LLC",
+    "company_score": 4.4,
+    "date": "2d",
+    "job_id": "software_engineering_168"
+  },
+  {
+    "job_title": "Software Engineer - C#",
+    "salary_in_usd": 175500,
+    "company_location": "New York, NY",
+    "company_name": "Millennium Management",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_169"
+  },
+  {
+    "job_title": "Software Engineer III",
+    "salary_in_usd": 102500,
+    "company_location": "Remote",
+    "company_name": "Aflac, Incorporated",
+    "company_score": 4.0,
+    "date": "1d",
+    "job_id": "software_engineering_170"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 132500,
+    "company_location": "Belmont, CA",
+    "company_name": "RingCentral",
+    "company_score": 3.9,
+    "date": "24d",
+    "job_id": "software_engineering_171"
+  },
+  {
+    "job_title": "Software Engineer-BI",
+    "salary_in_usd": 99000,
+    "company_location": "Dallas, TX",
+    "company_name": "Dallas Area Rapid Transit",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_172"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 114500,
+    "company_location": "Dahlgren, VA",
+    "company_name": "W R Systems",
+    "company_score": 3.5,
+    "date": "4d",
+    "job_id": "software_engineering_173"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 151500,
+    "company_location": "Carlsbad, CA",
+    "company_name": "CARECRAFT, INC",
+    "company_score": 3.7,
+    "date": "10d",
+    "job_id": "software_engineering_174"
+  },
+  {
+    "job_title": "Cloud Engineer Manager",
+    "salary_in_usd": 92000,
+    "company_location": "Remote",
+    "company_name": "SpecialT Tech",
+    "company_score": 3.1,
+    "date": "25d",
+    "job_id": "software_engineering_175"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 96500,
+    "company_location": "Pompano Beach, FL",
+    "company_name": "Hottinger, Bruel & Kjaer",
+    "company_score": 4.5,
+    "date": "30d+",
+    "job_id": "software_engineering_176"
+  },
+  {
+    "job_title": "Software Developers",
+    "salary_in_usd": 103000,
+    "company_location": "Chicago, IL",
+    "company_name": "Northwestern Memorial Healthcare",
+    "company_score": 4.2,
+    "date": "10d",
+    "job_id": "software_engineering_177"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 121000,
+    "company_location": "Columbia, MD",
+    "company_name": "The Swift Group",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_178"
+  },
+  {
+    "job_title": "Software Engineer - AI",
+    "salary_in_usd": 116500,
+    "company_location": "Hillsboro, OR",
+    "company_name": "ASUS Computer International",
+    "company_score": 4.9,
+    "date": "30d+",
+    "job_id": "software_engineering_179"
+  },
+  {
+    "job_title": "Software Engineer II (Communications Platform)",
+    "salary_in_usd": 124000,
+    "company_location": "New York, NY",
+    "company_name": "Cedar Inc",
+    "company_score": 3.3,
+    "date": "20d",
+    "job_id": "software_engineering_180"
+  },
+  {
+    "job_title": "Software Engineering MTS",
+    "salary_in_usd": 95000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Salesforce",
+    "company_score": 3.1,
+    "date": "3d",
+    "job_id": "software_engineering_181"
+  },
+  {
+    "job_title": "Software Developer - C#, .NET",
+    "salary_in_usd": 151500,
+    "company_location": "Scottsdale, AZ",
+    "company_name": "CVS Health",
+    "company_score": 2.4,
+    "date": "3d",
+    "job_id": "software_engineering_182"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 147500,
+    "company_location": "Irving, TX",
+    "company_name": "Nautilus Hyosung America Inc",
+    "company_score": 3.1,
+    "date": "3d",
+    "job_id": "software_engineering_183"
+  },
+  {
+    "job_title": "Embedded Flight Software Engineer \u2013 New Glenn",
+    "salary_in_usd": 236500,
+    "company_location": "Seattle, WA",
+    "company_name": "Blue Origin",
+    "company_score": 4.4,
+    "date": "2d",
+    "job_id": "software_engineering_184"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 94000,
+    "company_location": "West Bend, WI",
+    "company_name": "West Bend Insurance Company",
+    "company_score": 4.9,
+    "date": "1d",
+    "job_id": "software_engineering_185"
+  },
+  {
+    "job_title": "Software Engineer C#",
+    "salary_in_usd": 111500,
+    "company_location": "Chalfont, PA",
+    "company_name": "JBT Corporation",
+    "company_score": 4.1,
+    "date": "15d",
+    "job_id": "software_engineering_186"
+  },
+  {
+    "job_title": "Software Engineer III (Payment Workflows)",
+    "salary_in_usd": 69500,
+    "company_location": "New York, NY",
+    "company_name": "Cedar Inc",
+    "company_score": 3.1,
+    "date": "19d",
+    "job_id": "software_engineering_187"
+  },
+  {
+    "job_title": "SOFTWARE DEVELOPERS",
+    "salary_in_usd": 246000,
+    "company_location": "Somerset, NJ",
+    "company_name": "Allied Business Consulting",
+    "company_score": 3.8,
+    "date": "13d",
+    "job_id": "software_engineering_188"
+  },
+  {
+    "job_title": "Senior Software Engineer - Backend Development",
+    "salary_in_usd": 86500,
+    "company_location": "Atlanta, GA",
+    "company_name": "Chick-fil-A, Inc.",
+    "company_score": 2.3,
+    "date": "11d",
+    "job_id": "software_engineering_189"
+  },
+  {
+    "job_title": "Software Engineering",
+    "salary_in_usd": 103500,
+    "company_location": "San Francisco, CA",
+    "company_name": "US AMR-Jones Lang LaSalle Americas, Inc.",
+    "company_score": 3.8,
+    "date": "2d",
+    "job_id": "software_engineering_190"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 90500,
+    "company_location": "Austin, TX",
+    "company_name": "Smart IMS",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_191"
+  },
+  {
+    "job_title": "Software Development Engineer",
+    "salary_in_usd": 97000,
+    "company_location": "San Jose, CA",
+    "company_name": "Clearwater Analytics",
+    "company_score": 4.7,
+    "date": "30d+",
+    "job_id": "software_engineering_192"
+  },
+  {
+    "job_title": "Software Engineer, Backend",
+    "salary_in_usd": 95500,
+    "company_location": "San Jose, CA",
+    "company_name": "PayPal",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_193"
+  },
+  {
+    "job_title": "Principal Software Engineer",
+    "salary_in_usd": 107500,
+    "company_location": "Bellevue, WA",
+    "company_name": "WALGREENS",
+    "company_score": 4.6,
+    "date": "1d",
+    "job_id": "software_engineering_194"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 115000,
+    "company_location": "McLean, VA",
+    "company_name": "The Swift Group",
+    "company_score": 3.7,
+    "date": "18d",
+    "job_id": "software_engineering_195"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 108000,
+    "company_location": "Spring, TX",
+    "company_name": "Hewlett Packard",
+    "company_score": 3.5,
+    "date": "10d",
+    "job_id": "software_engineering_196"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 82500,
+    "company_location": "Redmond, WA",
+    "company_name": "Microsoft",
+    "company_score": 4.0,
+    "date": "5d",
+    "job_id": "software_engineering_197"
+  },
+  {
+    "job_title": "SharePoint Software Systems Engineer",
+    "salary_in_usd": 120000,
+    "company_location": "Remote",
+    "company_name": "New River Systems Corporation",
+    "company_score": 4.4,
+    "date": "17d",
+    "job_id": "software_engineering_198"
+  },
+  {
+    "job_title": "Software Engineer - Associate",
+    "salary_in_usd": 179000,
+    "company_location": "Chantilly, VA",
+    "company_name": "Modern Technology Solutions, Inc.",
+    "company_score": 4.6,
+    "date": "11d",
+    "job_id": "software_engineering_199"
+  },
+  {
+    "job_title": "Hardware/Software Engineer",
+    "salary_in_usd": 103500,
+    "company_location": "Boca Raton, FL",
+    "company_name": "PQSecure Technologies",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_200"
+  },
+  {
+    "job_title": "Mid to Senior Level Software Engineer",
+    "salary_in_usd": 160500,
+    "company_location": "San Diego, CA",
+    "company_name": "ISPA Technology",
+    "company_score": 4.4,
+    "date": "19d",
+    "job_id": "software_engineering_201"
+  },
+  {
+    "job_title": "Site Reliability Engineer",
+    "salary_in_usd": 167000,
+    "company_location": "Tampa, FL",
+    "company_name": "OnMed",
+    "company_score": 5.0,
+    "date": "23d",
+    "job_id": "software_engineering_202"
+  },
+  {
+    "job_title": "Networks - Embedded Software Engineer",
+    "salary_in_usd": 170000,
+    "company_location": "Madison, IN",
+    "company_name": "Grote Industries",
+    "company_score": 4.2,
+    "date": "3d",
+    "job_id": "software_engineering_203"
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "salary_in_usd": 103000,
+    "company_location": "Deerfield, IL",
+    "company_name": "WALGREENS",
+    "company_score": 3.9,
+    "date": "24h",
+    "job_id": "software_engineering_204"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 121000,
+    "company_location": "Naperville, IL",
+    "company_name": "Cloud Software Group",
+    "company_score": 4.5,
+    "date": "12d",
+    "job_id": "software_engineering_205"
+  },
+  {
+    "job_title": "Senior Software Engineer (Full-Stack, Java, JavaScript)",
+    "salary_in_usd": 114000,
+    "company_location": "Bellevue, WA",
+    "company_name": "WALGREENS",
+    "company_score": 4.6,
+    "date": "30d+",
+    "job_id": "software_engineering_206"
+  },
+  {
+    "job_title": "Fullstack Software Engineer",
+    "salary_in_usd": 178500,
+    "company_location": "Boston, MA",
+    "company_name": "Arrowstreet Capital",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_207"
+  },
+  {
+    "job_title": "Full Stack Engineer",
+    "salary_in_usd": 200000,
+    "company_location": "Santa Monica, CA",
+    "company_name": "Favorited",
+    "company_score": 4.8,
+    "date": "2d",
+    "job_id": "software_engineering_208"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 139500,
+    "company_location": "Georgetown, TX",
+    "company_name": "Strategic Thermal Labs",
+    "company_score": 2.5,
+    "date": "11d",
+    "job_id": "software_engineering_209"
+  },
+  {
+    "job_title": "SOFTWARE DEVELOPER",
+    "salary_in_usd": 115500,
+    "company_location": "Irving, TX",
+    "company_name": "IdolSoft",
+    "company_score": 3.3,
+    "date": "30d+",
+    "job_id": "software_engineering_210"
+  },
+  {
+    "job_title": "SOFTWARE DEVELOPERS (834)",
+    "salary_in_usd": 74500,
+    "company_location": "Plainsboro, NJ",
+    "company_name": "BI Labs",
+    "company_score": 3.1,
+    "date": "30d+",
+    "job_id": "software_engineering_211"
+  },
+  {
+    "job_title": "Software Engineer, Enterprise Frontend",
+    "salary_in_usd": 75000,
+    "company_location": "San Bruno, CA",
+    "company_name": "Verily",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_212"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 167000,
+    "company_location": "Alpharetta, GA",
+    "company_name": "Colonial Pipeline Company",
+    "company_score": 4.4,
+    "date": "30d+",
+    "job_id": "software_engineering_213"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 152000,
+    "company_location": "Hill AFB, UT",
+    "company_name": "Leader Communications Inc",
+    "company_score": 4.2,
+    "date": "26d",
+    "job_id": "software_engineering_214"
+  },
+  {
+    "job_title": "Software Engineer Sr. \u00e2\u20ac\u201d Net",
+    "salary_in_usd": 109000,
+    "company_location": "Minneapolis, MN",
+    "company_name": "UCare",
+    "company_score": 3.3,
+    "date": "12d",
+    "job_id": "software_engineering_215"
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "salary_in_usd": 125000,
+    "company_location": "Minneapolis, MN",
+    "company_name": "CliftonLarsonAllen",
+    "company_score": 4.8,
+    "date": "11d",
+    "job_id": "software_engineering_216"
+  },
+  {
+    "job_title": "Software Engineer Associate Manager - National General",
+    "salary_in_usd": 114000,
+    "company_location": "Remote",
+    "company_name": "Two Six Technologies",
+    "company_score": 3.9,
+    "date": "4d",
+    "job_id": "software_engineering_217"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 83500,
+    "company_location": "Herndon, VA",
+    "company_name": "BAE Systems",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_218"
+  },
+  {
+    "job_title": "Software Engineer (Expert)",
+    "salary_in_usd": 122500,
+    "company_location": "Herndon, VA",
+    "company_name": "Nodal Exchange",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_219"
+  },
+  {
+    "job_title": "Full Stack Software Engineer & API Developer",
+    "salary_in_usd": 182000,
+    "company_location": "Canoga Park, CA",
+    "company_name": "T-Mobile USA, Inc.",
+    "company_score": 3.7,
+    "date": "1d",
+    "job_id": "software_engineering_220"
+  },
+  {
+    "job_title": "Sr Software Engineer - Data",
+    "salary_in_usd": 138000,
+    "company_location": "Bellevue, WA",
+    "company_name": "M&T Bank",
+    "company_score": 3.5,
+    "date": "3d",
+    "job_id": "software_engineering_221"
+  },
+  {
+    "job_title": "API Services - Senior Software Engineer - Java, Spring Boot",
+    "salary_in_usd": 119000,
+    "company_location": "Buffalo, NY",
+    "company_name": "Pressco Technology",
+    "company_score": 4.5,
+    "date": "10d",
+    "job_id": "software_engineering_222"
+  },
+  {
+    "job_title": "Software Integration & Test Engineer",
+    "salary_in_usd": 161000,
+    "company_location": "Solon, OH",
+    "company_name": "YouTube",
+    "company_score": 3.8,
+    "date": "3d",
+    "job_id": "software_engineering_223"
+  },
+  {
+    "job_title": "Staff Software Engineer, Machine Learning, YouTube Music",
+    "salary_in_usd": 116500,
+    "company_location": "New York, NY",
+    "company_name": "ISPA Technology",
+    "company_score": 4.2,
+    "date": "1d",
+    "job_id": "software_engineering_224"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 80500,
+    "company_location": "Meridian, ID",
+    "company_name": "STRATASCORP",
+    "company_score": 3.5,
+    "date": "5d",
+    "job_id": "software_engineering_225"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 162500,
+    "company_location": "Arlington, VA",
+    "company_name": "3R Info",
+    "company_score": 3.8,
+    "date": "4d",
+    "job_id": "software_engineering_226"
+  },
+  {
+    "job_title": "Software Engineer in Testing",
+    "salary_in_usd": 168000,
+    "company_location": "Canton, MI",
+    "company_name": "Toyota Research Institute",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_227"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 126500,
+    "company_location": "Los Altos, CA",
+    "company_name": "Gelber Group",
+    "company_score": 5.0,
+    "date": "9d",
+    "job_id": "software_engineering_228"
+  },
+  {
+    "job_title": "Software Engineer- Executions Team",
+    "salary_in_usd": 165000,
+    "company_location": "Chicago, IL",
+    "company_name": "PeopleTec, Inc.",
+    "company_score": 3.5,
+    "date": "20d",
+    "job_id": "software_engineering_229"
+  },
+  {
+    "job_title": "SOFTWARE ENGINEER",
+    "salary_in_usd": 110000,
+    "company_location": "Jamesburg, NJ",
+    "company_name": "Ingrain Systems Inc.",
+    "company_score": 3.9,
+    "date": "20d",
+    "job_id": "software_engineering_230"
+  },
+  {
+    "job_title": "Software Developers",
+    "salary_in_usd": 125000,
+    "company_location": "Sherman, TX",
+    "company_name": "Carrier",
+    "company_score": 4.7,
+    "date": "30d+",
+    "job_id": "software_engineering_231"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 163500,
+    "company_location": "Charlotte, NC",
+    "company_name": "NCR",
+    "company_score": 4.2,
+    "date": "3d",
+    "job_id": "software_engineering_232"
+  },
+  {
+    "job_title": "Mid-Level Software Engineer \u2013 HYBRID!",
+    "salary_in_usd": 86000,
+    "company_location": "Quantico, VA",
+    "company_name": "Soar Technology",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_233"
+  },
+  {
+    "job_title": "Autonomy Software Engineer",
+    "salary_in_usd": 129500,
+    "company_location": "Ann Arbor, MI",
+    "company_name": "Red Ventures",
+    "company_score": 3.1,
+    "date": "2d",
+    "job_id": "software_engineering_234"
+  },
+  {
+    "job_title": "Software Engineer | The Points Guy",
+    "salary_in_usd": 159500,
+    "company_location": "San Juan, PR",
+    "company_name": "CVS Health",
+    "company_score": 4.1,
+    "date": "2d",
+    "job_id": "software_engineering_235"
+  },
+  {
+    "job_title": "Software Development ITAM Engineer",
+    "salary_in_usd": 141000,
+    "company_location": "Lansing, MI",
+    "company_name": "Messenger, LLC",
+    "company_score": 4.4,
+    "date": "5d",
+    "job_id": "software_engineering_236"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 83000,
+    "company_location": "Auburn, IN",
+    "company_name": "Nelnet",
+    "company_score": 3.5,
+    "date": "3d",
+    "job_id": "software_engineering_237"
+  },
+  {
+    "job_title": "IT Software Engineer- NBS",
+    "salary_in_usd": 133500,
+    "company_location": "Lincoln, NE",
+    "company_name": "Slate Magazine",
+    "company_score": 4.8,
+    "date": "24d",
+    "job_id": "software_engineering_238"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 74000,
+    "company_location": "Washington, DC",
+    "company_name": "Adobe",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_239"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 95000,
+    "company_location": "Lehi, UT",
+    "company_name": "Airgas",
+    "company_score": 4.1,
+    "date": "12d",
+    "job_id": "software_engineering_240"
+  },
+  {
+    "job_title": "Firmware Engineer",
+    "salary_in_usd": 159000,
+    "company_location": "Cheshire, CT",
+    "company_name": "Umbra",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_241"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 147000,
+    "company_location": "Santa Barbara, CA",
+    "company_name": "Uber",
+    "company_score": 3.8,
+    "date": "5d",
+    "job_id": "software_engineering_242"
+  },
+  {
+    "job_title": "Software Engineer II - Uber Eats",
+    "salary_in_usd": 76500,
+    "company_location": "San Francisco, CA",
+    "company_name": "Collaborative Robotics",
+    "company_score": 3.7,
+    "date": "27d",
+    "job_id": "software_engineering_243"
+  },
+  {
+    "job_title": "Software Engineer, Robotics",
+    "salary_in_usd": 121500,
+    "company_location": "Santa Clara, CA",
+    "company_name": "Werfen",
+    "company_score": 3.3,
+    "date": "8d",
+    "job_id": "software_engineering_244"
+  },
+  {
+    "job_title": "Software Development Engineer in Test, Digital Solutions",
+    "salary_in_usd": 78000,
+    "company_location": "Bedford, MA",
+    "company_name": "Snapchat",
+    "company_score": 4.3,
+    "date": "19d",
+    "job_id": "software_engineering_245"
+  },
+  {
+    "job_title": "C++ Graphics Engineer, 1+ Years of Experience",
+    "salary_in_usd": 115000,
+    "company_location": "New York, NY",
+    "company_name": "Canon Medical Research USA, Inc",
+    "company_score": 3.7,
+    "date": "2d",
+    "job_id": "software_engineering_246"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 123500,
+    "company_location": "Cambridge, MA",
+    "company_name": "Raytheon",
+    "company_score": 4.0,
+    "date": "2d",
+    "job_id": "software_engineering_247"
+  },
+  {
+    "job_title": "Junior Software Engineer",
+    "salary_in_usd": 138000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Snapchat",
+    "company_score": 3.8,
+    "date": "6d",
+    "job_id": "software_engineering_248"
+  },
+  {
+    "job_title": "Software Engineer, C++, 3+ Years of Experience",
+    "salary_in_usd": 90500,
+    "company_location": "Los Angeles, CA",
+    "company_name": "Hudson River Trading",
+    "company_score": 3.9,
+    "date": "4d",
+    "job_id": "software_engineering_249"
+  },
+  {
+    "job_title": "Systems Software Engineer",
+    "salary_in_usd": 150000,
+    "company_location": "New York, NY",
+    "company_name": "Whisker",
+    "company_score": 4.3,
+    "date": "30d+",
+    "job_id": "software_engineering_250"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 115500,
+    "company_location": "Auburn Hills, MI",
+    "company_name": "Mastercard",
+    "company_score": 3.1,
+    "date": "30d+",
+    "job_id": "software_engineering_251"
+  },
+  {
+    "job_title": "SoftWare Engineer II",
+    "salary_in_usd": 101000,
+    "company_location": "O Fallon, MO",
+    "company_name": "Savannah River Mission Completion",
+    "company_score": 3.6,
+    "date": "8d",
+    "job_id": "software_engineering_252"
+  },
+  {
+    "job_title": "Associate Software Developer",
+    "salary_in_usd": 90000,
+    "company_location": "Aiken, SC",
+    "company_name": "Mill-Max",
+    "company_score": 3.8,
+    "date": "9d",
+    "job_id": "software_engineering_253"
+  },
+  {
+    "job_title": "SOFTWARE ENGINEER TRAINEE",
+    "salary_in_usd": 153500,
+    "company_location": "Oyster Bay, NY",
+    "company_name": "Disney Entertainment & ESPN Technology",
+    "company_score": 3.8,
+    "date": "24d",
+    "job_id": "software_engineering_254"
+  },
+  {
+    "job_title": "Sr Software Engineer",
+    "salary_in_usd": 99500,
+    "company_location": "Seattle, WA",
+    "company_name": "Coca-Cola",
+    "company_score": 4.2,
+    "date": "1d",
+    "job_id": "software_engineering_255"
+  },
+  {
+    "job_title": "Staff Software Engineer",
+    "salary_in_usd": 138500,
+    "company_location": "Atlanta, GA",
+    "company_name": "Kaleido",
+    "company_score": 4.1,
+    "date": "4d",
+    "job_id": "software_engineering_256"
+  },
+  {
+    "job_title": "Full Stack Engineer",
+    "salary_in_usd": 199500,
+    "company_location": "Raleigh, NC",
+    "company_name": "M&T Bank",
+    "company_score": 3.7,
+    "date": "5d",
+    "job_id": "software_engineering_257"
+  },
+  {
+    "job_title": "Software Engineer - API, Java, Spring Boot",
+    "salary_in_usd": 129500,
+    "company_location": "Buffalo, NY",
+    "company_name": "Lufburrow & Co",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_258"
+  },
+  {
+    "job_title": "Software Engineer - Hybrid",
+    "salary_in_usd": 128000,
+    "company_location": "Havre de Grace, MD",
+    "company_name": "Boost Tech",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_259"
+  },
+  {
+    "job_title": "Senior Software Engineer (CRM)",
+    "salary_in_usd": 106000,
+    "company_location": "Remote",
+    "company_name": "BAE Systems",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_260"
+  },
+  {
+    "job_title": "Test Software Engineer",
+    "salary_in_usd": 200000,
+    "company_location": "Nashua, NH",
+    "company_name": "VANTACA",
+    "company_score": 4.5,
+    "date": "4d",
+    "job_id": "software_engineering_261"
+  },
+  {
+    "job_title": "Software Engineer (multiple openings)",
+    "salary_in_usd": 118000,
+    "company_location": "Fort Collins, CO",
+    "company_name": "Veracity Engineering",
+    "company_score": 4.6,
+    "date": "18d",
+    "job_id": "software_engineering_262"
+  },
+  {
+    "job_title": "SOFTWARE ENGINEER",
+    "salary_in_usd": 31380,
+    "company_location": "Washington, DC",
+    "company_name": "AppLovin",
+    "company_score": 4.7,
+    "date": "5d",
+    "job_id": "software_engineering_263"
+  },
+  {
+    "job_title": "Software Engineer II, C++ Backend",
+    "salary_in_usd": 176000,
+    "company_location": "Palo Alto, CA",
+    "company_name": "M&T Bank",
+    "company_score": 4.1,
+    "date": "5d",
+    "job_id": "software_engineering_264"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 102000,
+    "company_location": "Wilmington, DE",
+    "company_name": "CVS Health",
+    "company_score": 4.2,
+    "date": "30d+",
+    "job_id": "software_engineering_265"
+  },
+  {
+    "job_title": "Junior Software Developer (Java & Azure Cloud)",
+    "salary_in_usd": 111000,
+    "company_location": "Woonsocket, RI",
+    "company_name": "Microsoft",
+    "company_score": 4.1,
+    "date": "2d",
+    "job_id": "software_engineering_266"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 115500,
+    "company_location": "Boston, MA",
+    "company_name": "Honda Research Institute USA",
+    "company_score": 4.2,
+    "date": "30d+",
+    "job_id": "software_engineering_267"
+  },
+  {
+    "job_title": "Software Engineer for Mobile Robots",
+    "salary_in_usd": 89500,
+    "company_location": "San Jose, CA",
+    "company_name": "Activision",
+    "company_score": 4.0,
+    "date": "13d",
+    "job_id": "software_engineering_268"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 133000,
+    "company_location": "Santa Monica, CA",
+    "company_name": "thatgamecompany",
+    "company_score": 3.6,
+    "date": "9d",
+    "job_id": "software_engineering_269"
+  },
+  {
+    "job_title": "Vice President, Back-End Engineer I",
+    "salary_in_usd": 102500,
+    "company_location": "Lake Mary, FL",
+    "company_name": "Recruiting From Scratch",
+    "company_score": 3.6,
+    "date": "2d",
+    "job_id": "software_engineering_270"
+  },
+  {
+    "job_title": "Founding Software Engineer",
+    "salary_in_usd": 124000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Akina, Inc.",
+    "company_score": 3.9,
+    "date": "3d",
+    "job_id": "software_engineering_271"
+  },
+  {
+    "job_title": "Software Engineer - 1 (Kubernetes/Python)",
+    "salary_in_usd": 175000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Vonnen",
+    "company_score": 4.8,
+    "date": "18d",
+    "job_id": "software_engineering_272"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 121000,
+    "company_location": "Santa Clara, CA",
+    "company_name": "Capgemini",
+    "company_score": 4.5,
+    "date": "9d",
+    "job_id": "software_engineering_273"
+  },
+  {
+    "job_title": "Software Engineer - Redis",
+    "salary_in_usd": 125000,
+    "company_location": "Irving, TX",
+    "company_name": "Stefanini, Inc",
+    "company_score": 3.6,
+    "date": "2d",
+    "job_id": "software_engineering_274"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 100000,
+    "company_location": "Dearborn, MI",
+    "company_name": "Infosys",
+    "company_score": 4.7,
+    "date": "25d",
+    "job_id": "software_engineering_275"
+  },
+  {
+    "job_title": "Release Engineer",
+    "salary_in_usd": 97500,
+    "company_location": "Chicago, IL",
+    "company_name": "Link, LLC",
+    "company_score": 4.9,
+    "date": "9d",
+    "job_id": "software_engineering_276"
+  },
+  {
+    "job_title": "Golang Software Engineer (VISTA BIGHITTER), BS+7, Telework",
+    "salary_in_usd": 106000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Autodesk",
+    "company_score": 3.9,
+    "date": "11d",
+    "job_id": "software_engineering_277"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 101000,
+    "company_location": "Jersey City, NJ",
+    "company_name": "WR Systems",
+    "company_score": 4.2,
+    "date": "2d",
+    "job_id": "software_engineering_278"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 203000,
+    "company_location": "Dahlgren, VA",
+    "company_name": "Acuity Brands",
+    "company_score": 3.5,
+    "date": "3d",
+    "job_id": "software_engineering_279"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 94500,
+    "company_location": "Conyers, GA",
+    "company_name": "Cisco Systems",
+    "company_score": 4.1,
+    "date": "3d",
+    "job_id": "software_engineering_280"
+  },
+  {
+    "job_title": "Software QA Engineer",
+    "salary_in_usd": 142500,
+    "company_location": "San Jose, CA",
+    "company_name": "WALGREENS",
+    "company_score": 3.3,
+    "date": "12d",
+    "job_id": "software_engineering_281"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 112500,
+    "company_location": "Deerfield, IL",
+    "company_name": "Vivint, Inc.",
+    "company_score": 3.8,
+    "date": "2d",
+    "job_id": "software_engineering_282"
+  },
+  {
+    "job_title": "Sr. Software Engineer",
+    "salary_in_usd": 120000,
+    "company_location": "Lehi, UT",
+    "company_name": "Caelum Research Corporation",
+    "company_score": 4.1,
+    "date": "4d",
+    "job_id": "software_engineering_283"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 145000,
+    "company_location": "Carlisle, PA",
+    "company_name": "Oracle",
+    "company_score": 4.5,
+    "date": "22d",
+    "job_id": "software_engineering_284"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 240000,
+    "company_location": "Redwood City, CA",
+    "company_name": "Fidelity Investments",
+    "company_score": 3.8,
+    "date": "24h",
+    "job_id": "software_engineering_285"
+  },
+  {
+    "job_title": "Cloud Engineer",
+    "salary_in_usd": 130000,
+    "company_location": "Westlake, TX",
+    "company_name": "Colorado State University",
+    "company_score": 4.5,
+    "date": "9d",
+    "job_id": "software_engineering_286"
+  },
+  {
+    "job_title": "Application Programmer Analyst/Developer I",
+    "salary_in_usd": 113000,
+    "company_location": "Fort Collins, CO",
+    "company_name": "Bayer",
+    "company_score": 2.3,
+    "date": "5d",
+    "job_id": "software_engineering_287"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 70000,
+    "company_location": "Indianola, PA",
+    "company_name": "USAA",
+    "company_score": 3.9,
+    "date": "12d",
+    "job_id": "software_engineering_288"
+  },
+  {
+    "job_title": "Senior React/Javascript Software Engineer",
+    "salary_in_usd": 98000,
+    "company_location": "San Antonio, TX",
+    "company_name": "Accenture Federal Services",
+    "company_score": 3.1,
+    "date": "1d",
+    "job_id": "software_engineering_289"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 117500,
+    "company_location": "Lorton, VA",
+    "company_name": "Gundersen Health System",
+    "company_score": 5.0,
+    "date": "13d",
+    "job_id": "software_engineering_290"
+  },
+  {
+    "job_title": "Software Engineer | Front End Developer",
+    "salary_in_usd": 98000,
+    "company_location": "Onalaska, WI",
+    "company_name": "JRC Integrated Systems, LLC",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_291"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 128500,
+    "company_location": "Washington, DC",
+    "company_name": "XL Softek",
+    "company_score": 3.9,
+    "date": "11d",
+    "job_id": "software_engineering_292"
+  },
+  {
+    "job_title": "Software Engineers",
+    "salary_in_usd": 217500,
+    "company_location": "Suwanee, GA",
+    "company_name": "kasmo cloud solutions",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_293"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 135000,
+    "company_location": "Carol Stream, IL",
+    "company_name": "ICR, Inc.",
+    "company_score": 4.2,
+    "date": "5d",
+    "job_id": "software_engineering_294"
+  },
+  {
+    "job_title": "Software Engineer - Front End (Dashboard) - Aurora, CO",
+    "salary_in_usd": 145000,
+    "company_location": "Aurora, CO",
+    "company_name": "Workday",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_295"
+  },
+  {
+    "job_title": "Sr Associate Software Engineer, Database as a Service",
+    "salary_in_usd": 100500,
+    "company_location": "Atlanta, GA",
+    "company_name": "360care",
+    "company_score": 3.0,
+    "date": "5d",
+    "job_id": "software_engineering_296"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 99000,
+    "company_location": "Louisville, KY",
+    "company_name": "Amex",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_297"
+  },
+  {
+    "job_title": "Senior Engineer - Java - GO2 Unify",
+    "salary_in_usd": 137500,
+    "company_location": "Sunrise, FL",
+    "company_name": "DKW Communications",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_298"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 89500,
+    "company_location": "Point Mugu NAWC, CA",
+    "company_name": "SICK, Inc.",
+    "company_score": 4.1,
+    "date": "4d",
+    "job_id": "software_engineering_299"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 120000,
+    "company_location": "Minneapolis, MN",
+    "company_name": "Antithesis",
+    "company_score": 3.2,
+    "date": "3d",
+    "job_id": "software_engineering_300"
+  },
+  {
+    "job_title": "Junior Ruby on Rails Engineer",
+    "salary_in_usd": 135000,
+    "company_location": "Remote",
+    "company_name": "Rekuten Global",
+    "company_score": 3.9,
+    "date": "3d",
+    "job_id": "software_engineering_301"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 108000,
+    "company_location": "Vienna, VA",
+    "company_name": "Tencent",
+    "company_score": 4.0,
+    "date": "2d",
+    "job_id": "software_engineering_302"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 160000,
+    "company_location": "Beloit, WI",
+    "company_name": "RealmOne",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_303"
+  },
+  {
+    "job_title": "Security Software Engineer I",
+    "salary_in_usd": 94000,
+    "company_location": "Palo Alto, CA",
+    "company_name": "Zoox",
+    "company_score": 4.1,
+    "date": "6d",
+    "job_id": "software_engineering_304"
+  },
+  {
+    "job_title": "Software Engineer, Workflow Orchestration",
+    "salary_in_usd": 91000,
+    "company_location": "Foster City, CA",
+    "company_name": "Synergy ECP",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_305"
+  },
+  {
+    "job_title": "Software Engineer 3",
+    "salary_in_usd": 88500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Innovative Defense Technologies (IDT)",
+    "company_score": 3.9,
+    "date": "19d",
+    "job_id": "software_engineering_306"
+  },
+  {
+    "job_title": "Backend Python Software Engineer",
+    "salary_in_usd": 102500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "VETERANS ENGINEERING INCORPORATED",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_307"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 15000,
+    "company_location": "Fall River, MA",
+    "company_name": "Solvere Technical Group",
+    "company_score": 3.6,
+    "date": "30d+",
+    "job_id": "software_engineering_308"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 108500,
+    "company_location": "Indian Head, MD",
+    "company_name": "Nava",
+    "company_score": 3.8,
+    "date": "2d",
+    "job_id": "software_engineering_309"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 132500,
+    "company_location": "Pittsburgh, PA",
+    "company_name": "f5",
+    "company_score": 3.6,
+    "date": "4d",
+    "job_id": "software_engineering_310"
+  },
+  {
+    "job_title": "Sr. Software Engineer",
+    "salary_in_usd": 91000,
+    "company_location": "Remote",
+    "company_name": "BAE Systems",
+    "company_score": 4.5,
+    "date": "2d",
+    "job_id": "software_engineering_311"
+  },
+  {
+    "job_title": "Software Engineer III",
+    "salary_in_usd": 127000,
+    "company_location": "San Jose, CA",
+    "company_name": "Synergy ECP",
+    "company_score": 3.4,
+    "date": "19d",
+    "job_id": "software_engineering_312"
+  },
+  {
+    "job_title": "Engineer, Junior Software",
+    "salary_in_usd": 110000,
+    "company_location": "Lexington Park, MD",
+    "company_name": "GE HEALTHCARE",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_313"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 85000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "TC Energy",
+    "company_score": 2.4,
+    "date": "30d+",
+    "job_id": "software_engineering_314"
+  },
+  {
+    "job_title": "Senior Software Engineer (Hybrid, Onsite)",
+    "salary_in_usd": 102500,
+    "company_location": "Milwaukee, WI",
+    "company_name": "Principal Financial Group",
+    "company_score": 4.3,
+    "date": "3d",
+    "job_id": "software_engineering_315"
+  },
+  {
+    "job_title": "New Engineer-in-Training (NET) Rotational Program",
+    "salary_in_usd": 185000,
+    "company_location": "Houston, TX",
+    "company_name": "Schlumberger",
+    "company_score": 3.4,
+    "date": "6d",
+    "job_id": "software_engineering_316"
+  },
+  {
+    "job_title": "Back End Software Engineer",
+    "salary_in_usd": 72500,
+    "company_location": "Houston, TX",
+    "company_name": "JBT Corporation",
+    "company_score": 4.6,
+    "date": "9d",
+    "job_id": "software_engineering_317"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 120500,
+    "company_location": "San Mateo, CA",
+    "company_name": "FLASH Technology Group",
+    "company_score": 4.2,
+    "date": "30d+",
+    "job_id": "software_engineering_318"
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "salary_in_usd": 112000,
+    "company_location": "Chalfont, PA",
+    "company_name": "Innovative Defense Technologies (IDT)",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_319"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "salary_in_usd": 115500,
+    "company_location": "Laurel, MD",
+    "company_name": "Fairfax County Public Schools",
+    "company_score": 4.2,
+    "date": "30d+",
+    "job_id": "software_engineering_320"
+  },
+  {
+    "job_title": "Software Engineer (One Year Only)",
+    "salary_in_usd": 111500,
+    "company_location": "Wilton Woods, VA",
+    "company_name": "Innovative Defense Technologies (IDT)",
+    "company_score": 3.0,
+    "date": "30d+",
+    "job_id": "software_engineering_321"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 140500,
+    "company_location": "Seattle, WA",
+    "company_name": "Burst Inc.",
+    "company_score": 2.0,
+    "date": "9d",
+    "job_id": "software_engineering_322"
+  },
+  {
+    "job_title": "DevSecOps Software Engineer",
+    "salary_in_usd": 137000,
+    "company_location": "Fall River, MA",
+    "company_name": "USN Technical Associates",
+    "company_score": 3.9,
+    "date": "5d",
+    "job_id": "software_engineering_323"
+  },
+  {
+    "job_title": "Video Software Engineer",
+    "salary_in_usd": 272500,
+    "company_location": "Lexington, MA",
+    "company_name": "SNC",
+    "company_score": 2.8,
+    "date": "11d",
+    "job_id": "software_engineering_324"
+  },
+  {
+    "job_title": "Contract Software Engineer",
+    "salary_in_usd": 82000,
+    "company_location": "Los Angeles, CA",
+    "company_name": "Decision Six",
+    "company_score": 4.1,
+    "date": "5d",
+    "job_id": "software_engineering_325"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 91500,
+    "company_location": "Southern Pines, NC",
+    "company_name": "Laiba Technologies",
+    "company_score": 4.4,
+    "date": "1d",
+    "job_id": "software_engineering_326"
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "salary_in_usd": 285000,
+    "company_location": "Newtown Square, PA",
+    "company_name": "Teamups",
+    "company_score": 4.4,
+    "date": "5d",
+    "job_id": "software_engineering_327"
+  },
+  {
+    "job_title": "DO178C Software Engineer",
+    "salary_in_usd": 120000,
+    "company_location": "Everett, WA",
+    "company_name": "Delta Dental Ins.",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_328"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 88000,
+    "company_location": "Seattle, WA",
+    "company_name": "Valkyrie Enterprises",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_329"
+  },
+  {
+    "job_title": "Expert Software Engineer",
+    "salary_in_usd": 55000,
+    "company_location": "Alpharetta, GA",
+    "company_name": "UiPath",
+    "company_score": 3.7,
+    "date": "1d",
+    "job_id": "software_engineering_330"
+  },
+  {
+    "job_title": "Software Engineer (Job ID:3425)",
+    "salary_in_usd": 89000,
+    "company_location": "Huntsville, AL",
+    "company_name": "Atlas Copco Tools & Assembly Systems LLC",
+    "company_score": 3.7,
+    "date": "27d",
+    "job_id": "software_engineering_331"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 118000,
+    "company_location": "Bellevue, WA",
+    "company_name": "ANB Sourcing LLC",
+    "company_score": 3.8,
+    "date": "9d",
+    "job_id": "software_engineering_332"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 118000,
+    "company_location": "Auburn Hills, MI",
+    "company_name": "McIntire Solutions",
+    "company_score": 4.5,
+    "date": "13d",
+    "job_id": "software_engineering_333"
+  },
+  {
+    "job_title": "Azure DevOps Engineer || Full time job.",
+    "salary_in_usd": 100000,
+    "company_location": "Remote",
+    "company_name": "Pennymac",
+    "company_score": 4.6,
+    "date": "2d",
+    "job_id": "software_engineering_334"
+  },
+  {
+    "job_title": "Software Systems Engineer/DevOps Engineer",
+    "salary_in_usd": 97000,
+    "company_location": "Chantilly, VA",
+    "company_name": "Literati",
+    "company_score": 3.7,
+    "date": "18d",
+    "job_id": "software_engineering_335"
+  },
+  {
+    "job_title": "Clojure Software Engineer",
+    "salary_in_usd": 80000,
+    "company_location": "Agoura Hills, CA",
+    "company_name": "Rochester Software Associates, Inc.",
+    "company_score": 4.1,
+    "date": "4d",
+    "job_id": "software_engineering_336"
+  },
+  {
+    "job_title": "Experienced Software Engineer - Scaled Access",
+    "salary_in_usd": 83000,
+    "company_location": "New York, NY",
+    "company_name": "Garmin International, Inc.",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_337"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 105000,
+    "company_location": "Redwood City, CA",
+    "company_name": "Resilio Inc.",
+    "company_score": 4.4,
+    "date": "5d",
+    "job_id": "software_engineering_338"
+  },
+  {
+    "job_title": "Software Certification Engineer 1 - Software Quality",
+    "salary_in_usd": 99500,
+    "company_location": "Salem, OR",
+    "company_name": "Candid",
+    "company_score": 3.7,
+    "date": "25d",
+    "job_id": "software_engineering_339"
+  },
+  {
+    "job_title": "Engineer",
+    "salary_in_usd": 82500,
+    "company_location": "Phoenix, AZ",
+    "company_name": "Fabletics",
+    "company_score": 3.6,
+    "date": "2d",
+    "job_id": "software_engineering_340"
+  },
+  {
+    "job_title": "R&D Software Engineer",
+    "salary_in_usd": 67000,
+    "company_location": "Stennis Space Center, MS",
+    "company_name": "Delta Dental Ins.",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_341"
+  },
+  {
+    "job_title": "Expert Software Engineer",
+    "salary_in_usd": 140000,
+    "company_location": "Oakland, CA",
+    "company_name": "Microchip Technology",
+    "company_score": 2.4,
+    "date": "1d",
+    "job_id": "software_engineering_342"
+  },
+  {
+    "job_title": "Sr. Full Stack Software Engineer",
+    "salary_in_usd": 200000,
+    "company_location": "Greenwood Village, CO",
+    "company_name": "Software Productivity Strategists",
+    "company_score": 3.3,
+    "date": "3d",
+    "job_id": "software_engineering_343"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 133500,
+    "company_location": "Lincoln, NE",
+    "company_name": "NeuroPace",
+    "company_score": 4.2,
+    "date": "30d+",
+    "job_id": "software_engineering_344"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 111500,
+    "company_location": "Rockville, MD",
+    "company_name": "OceanFrogs",
+    "company_score": 2.5,
+    "date": "30d+",
+    "job_id": "software_engineering_345"
+  },
+  {
+    "job_title": "Full Stack Software Engineer",
+    "salary_in_usd": 130000,
+    "company_location": "Mountain View, CA",
+    "company_name": "iconectiv, LLC.",
+    "company_score": 3.5,
+    "date": "7d",
+    "job_id": "software_engineering_346"
+  },
+  {
+    "job_title": "Full Stack Software Developer",
+    "salary_in_usd": 127000,
+    "company_location": "Duluth, GA",
+    "company_name": "The Aerospace Corporation",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_347"
+  },
+  {
+    "job_title": "Software Engineer (Oracle Database Expertise)",
+    "salary_in_usd": 122500,
+    "company_location": "Bridgewater, NJ",
+    "company_name": "Fetch Package",
+    "company_score": 4.8,
+    "date": "4d",
+    "job_id": "software_engineering_348"
+  },
+  {
+    "job_title": "Data Engineer / Software Engineer",
+    "salary_in_usd": 132000,
+    "company_location": "Chantilly, VA",
+    "company_name": "Zenith Services",
+    "company_score": 4.7,
+    "date": "30d+",
+    "job_id": "software_engineering_349"
+  },
+  {
+    "job_title": "Lead Front-End Software Engineer",
+    "salary_in_usd": 87000,
+    "company_location": "Austin, TX",
+    "company_name": "Matthews International Corporation",
+    "company_score": 3.9,
+    "date": "4d",
+    "job_id": "software_engineering_350"
+  },
+  {
+    "job_title": "React Native Engineer",
+    "salary_in_usd": 86500,
+    "company_location": "Bentonville, AR",
+    "company_name": "Oracle",
+    "company_score": 2.9,
+    "date": "30d+",
+    "job_id": "software_engineering_351"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 154000,
+    "company_location": "Apopka, FL",
+    "company_name": "NVIDIA",
+    "company_score": 4.0,
+    "date": "3d",
+    "job_id": "software_engineering_352"
+  },
+  {
+    "job_title": "Senior Full-Stack Web Applications Software Engineer",
+    "salary_in_usd": 87000,
+    "company_location": "Santa Clara, CA",
+    "company_name": "Versaterm",
+    "company_score": 3.5,
+    "date": "1d",
+    "job_id": "software_engineering_353"
+  },
+  {
+    "job_title": "Software Developer*",
+    "salary_in_usd": 109500,
+    "company_location": "Scott Air Force Base, IL",
+    "company_name": "Apollo Technology Solutions LLC",
+    "company_score": 4.3,
+    "date": "9d",
+    "job_id": "software_engineering_354"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 104500,
+    "company_location": "Lexington, SC",
+    "company_name": "Navrit Creation",
+    "company_score": 3.6,
+    "date": "16d",
+    "job_id": "software_engineering_355"
+  },
+  {
+    "job_title": "Sr. Front End Engineer (React)",
+    "salary_in_usd": 86000,
+    "company_location": "Charlotte, NC",
+    "company_name": "Amazon.com Services LLC",
+    "company_score": 5.0,
+    "date": "2d",
+    "job_id": "software_engineering_356"
+  },
+  {
+    "job_title": "Freelance Web Developer",
+    "salary_in_usd": 215000,
+    "company_location": "Colony, AL",
+    "company_name": "Schneider Electric",
+    "company_score": 3.6,
+    "date": "1d",
+    "job_id": "software_engineering_357"
+  },
+  {
+    "job_title": "Software Dev Engineer, Modeling Software",
+    "salary_in_usd": 82000,
+    "company_location": "Boston, MA",
+    "company_name": "Akira Technologies Inc.",
+    "company_score": 3.7,
+    "date": "10d",
+    "job_id": "software_engineering_358"
+  },
+  {
+    "job_title": "Systems Application Engineer II - Software",
+    "salary_in_usd": 189000,
+    "company_location": "Secaucus, NJ",
+    "company_name": "CTC Group",
+    "company_score": 4.2,
+    "date": "1d",
+    "job_id": "software_engineering_359"
+  },
+  {
+    "job_title": "ServiceNow Software Engineer",
+    "salary_in_usd": 86000,
+    "company_location": "Washington, DC",
+    "company_name": "Space Coast Intelligent Solutions",
+    "company_score": 3.9,
+    "date": "9d",
+    "job_id": "software_engineering_360"
+  },
+  {
+    "job_title": "Python Developer",
+    "salary_in_usd": 98500,
+    "company_location": "Fort Meade, MD",
+    "company_name": "Credo",
+    "company_score": 3.9,
+    "date": "6d",
+    "job_id": "software_engineering_361"
+  },
+  {
+    "job_title": "Software Engineer IV",
+    "salary_in_usd": 140500,
+    "company_location": "Melbourne, FL",
+    "company_name": "9th networks Inc",
+    "company_score": 4.4,
+    "date": "30d+",
+    "job_id": "software_engineering_362"
+  },
+  {
+    "job_title": "System Software Engineer",
+    "salary_in_usd": 78000,
+    "company_location": "San Jose, CA",
+    "company_name": "Tuvoli",
+    "company_score": 3.1,
+    "date": "3d",
+    "job_id": "software_engineering_363"
+  },
+  {
+    "job_title": "Go Lang/Platform Engineer",
+    "salary_in_usd": 220000,
+    "company_location": "Jersey City, NJ",
+    "company_name": "Walter P Moore",
+    "company_score": 4.1,
+    "date": "3d",
+    "job_id": "software_engineering_364"
+  },
+  {
+    "job_title": "Front-end Software Developer",
+    "salary_in_usd": 140000,
+    "company_location": "Washington, DC",
+    "company_name": "CodeSignal",
+    "company_score": 3.8,
+    "date": "17d",
+    "job_id": "software_engineering_365"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 107000,
+    "company_location": "Beavercreek, OH",
+    "company_name": "Hewlett Packard",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_366"
+  },
+  {
+    "job_title": "Software Engineer, Innovation Lab",
+    "salary_in_usd": 190000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Dupli Envelope & Graphics",
+    "company_score": 4.8,
+    "date": "18d",
+    "job_id": "software_engineering_367"
+  },
+  {
+    "job_title": "Software Quality Engineer",
+    "salary_in_usd": 190000,
+    "company_location": "Fort Collins, CO",
+    "company_name": "Coinbase",
+    "company_score": 4.2,
+    "date": "10d",
+    "job_id": "software_engineering_368"
+  },
+  {
+    "job_title": "Software Support Engineer",
+    "salary_in_usd": 120000,
+    "company_location": "Syracuse, NY",
+    "company_name": "LSEG (London Stock Exchange Group)",
+    "company_score": 4.0,
+    "date": "3d",
+    "job_id": "software_engineering_369"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 125500,
+    "company_location": "Remote",
+    "company_name": "Inabia Software & Consulting Inc.",
+    "company_score": 3.8,
+    "date": "12d",
+    "job_id": "software_engineering_370"
+  },
+  {
+    "job_title": "Full Stack Engineer",
+    "salary_in_usd": 107000,
+    "company_location": "Washington, DC",
+    "company_name": "PMall",
+    "company_score": 4.5,
+    "date": "30d+",
+    "job_id": "software_engineering_371"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 107500,
+    "company_location": "Bellevue, WA",
+    "company_name": "Alloy",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_372"
+  },
+  {
+    "job_title": "Front-End Developer",
+    "salary_in_usd": 272500,
+    "company_location": "Burr Ridge, IL",
+    "company_name": "QinetiQ US",
+    "company_score": 3.9,
+    "date": "10d",
+    "job_id": "software_engineering_373"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 155500,
+    "company_location": "McLean, VA",
+    "company_name": "Jason Pharmaceuticals, Inc.",
+    "company_score": 4.0,
+    "date": "9d",
+    "job_id": "software_engineering_374"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 104500,
+    "company_location": "Peoria, IL",
+    "company_name": "IntelliBridge LLC",
+    "company_score": 3.6,
+    "date": "2d",
+    "job_id": "software_engineering_375"
+  },
+  {
+    "job_title": "Sr Software Engineer",
+    "salary_in_usd": 163500,
+    "company_location": "Lehi, UT",
+    "company_name": "Snyk",
+    "company_score": 3.4,
+    "date": "10d",
+    "job_id": "software_engineering_376"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 132000,
+    "company_location": "Washington, DC",
+    "company_name": "OpenAI",
+    "company_score": 4.2,
+    "date": "10d",
+    "job_id": "software_engineering_377"
+  },
+  {
+    "job_title": "Senior Software Engineer (Typescript/Go)",
+    "salary_in_usd": 144000,
+    "company_location": "Boston, MA",
+    "company_name": "Vertex Professional Service LLC",
+    "company_score": 2.7,
+    "date": "2d",
+    "job_id": "software_engineering_378"
+  },
+  {
+    "job_title": "Software Engineer, Backend",
+    "salary_in_usd": 137500,
+    "company_location": "San Francisco, CA",
+    "company_name": "deciBel Research, Inc.",
+    "company_score": 2.7,
+    "date": "5d",
+    "job_id": "software_engineering_379"
+  },
+  {
+    "job_title": "Software Engineer II (inSITE) - \"W-TRS\"",
+    "salary_in_usd": 145500,
+    "company_location": "Orlando, FL",
+    "company_name": "OpenAI",
+    "company_score": 4.4,
+    "date": "2d",
+    "job_id": "software_engineering_380"
+  },
+  {
+    "job_title": "Mid-Level Software Engineer",
+    "salary_in_usd": 145000,
+    "company_location": "Huntsville, AL",
+    "company_name": "COMSOL Inc.",
+    "company_score": 3.1,
+    "date": "25d",
+    "job_id": "software_engineering_381"
+  },
+  {
+    "job_title": "Full Stack Engineer, Leverage Engineering",
+    "salary_in_usd": 147500,
+    "company_location": "San Francisco, CA",
+    "company_name": "Infosys",
+    "company_score": 3.8,
+    "date": "6d",
+    "job_id": "software_engineering_382"
+  },
+  {
+    "job_title": "Software Developer \u2013 Ray Optics",
+    "salary_in_usd": 167500,
+    "company_location": "Burlington, MA",
+    "company_name": "Hero Facility Services",
+    "company_score": 3.8,
+    "date": "4d",
+    "job_id": "software_engineering_383"
+  },
+  {
+    "job_title": "Junior Python Developer",
+    "salary_in_usd": 153500,
+    "company_location": "Charlotte, NC",
+    "company_name": "QED Systems LLC",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_384"
+  },
+  {
+    "job_title": "Entry Level Developer",
+    "salary_in_usd": 153000,
+    "company_location": "Melbourne, FL",
+    "company_name": "Kasasa",
+    "company_score": 4.4,
+    "date": "3d",
+    "job_id": "software_engineering_385"
+  },
+  {
+    "job_title": "SOFTWARE ENGINEER",
+    "salary_in_usd": 132500,
+    "company_location": "Aberdeen Proving Ground, MD",
+    "company_name": "Delta Air Lines, Inc.",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_386"
+  },
+  {
+    "job_title": "Senior Software Engineer (Hybrid)",
+    "salary_in_usd": 162000,
+    "company_location": "Austin, TX",
+    "company_name": "HAN IT",
+    "company_score": 3.6,
+    "date": "11d",
+    "job_id": "software_engineering_387"
+  },
+  {
+    "job_title": "Software Development Engineer",
+    "salary_in_usd": 97500,
+    "company_location": "Atlanta, GA",
+    "company_name": "Innovative Solutions and Support",
+    "company_score": 3.9,
+    "date": "3d",
+    "job_id": "software_engineering_388"
+  },
+  {
+    "job_title": "Python Developer",
+    "salary_in_usd": 97500,
+    "company_location": "Morris Plains, NJ",
+    "company_name": "Promega",
+    "company_score": 4.8,
+    "date": "3d",
+    "job_id": "software_engineering_389"
+  },
+  {
+    "job_title": "Software Verification Engineer",
+    "salary_in_usd": 145500,
+    "company_location": "Exton, PA",
+    "company_name": "Revenue Management Solutions Llc",
+    "company_score": 3.7,
+    "date": "12d",
+    "job_id": "software_engineering_390"
+  },
+  {
+    "job_title": "Software Engineer, Instrumentation",
+    "salary_in_usd": 100000,
+    "company_location": "Madison, WI",
+    "company_name": "Cityblock Health",
+    "company_score": 3.8,
+    "date": "16d",
+    "job_id": "software_engineering_391"
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "salary_in_usd": 211500,
+    "company_location": "Oklahoma City, OK",
+    "company_name": "Astrion",
+    "company_score": 3.7,
+    "date": "12d",
+    "job_id": "software_engineering_392"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 114500,
+    "company_location": "Eglin AFB, FL",
+    "company_name": "Synergy ECP",
+    "company_score": 4.2,
+    "date": "17d",
+    "job_id": "software_engineering_393"
+  },
+  {
+    "job_title": "Sr. Software Engineer",
+    "salary_in_usd": 112000,
+    "company_location": "Remote",
+    "company_name": "ICR, Inc.",
+    "company_score": 4.0,
+    "date": "3d",
+    "job_id": "software_engineering_394"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 132500,
+    "company_location": "Columbia, MD",
+    "company_name": "Broadridge",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_395"
+  },
+  {
+    "job_title": "Software Systems Engineer - Mason, OH",
+    "salary_in_usd": 170000,
+    "company_location": "Mason, OH",
+    "company_name": "Zurn Elkay Water Solutions",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_396"
+  },
+  {
+    "job_title": "Deployment Engineer (Hybrid)",
+    "salary_in_usd": 80000,
+    "company_location": "Newark, NJ",
+    "company_name": "Florida State College at Jacksonville",
+    "company_score": 4.2,
+    "date": "9d",
+    "job_id": "software_engineering_397"
+  },
+  {
+    "job_title": "IoT Engineer",
+    "salary_in_usd": 95000,
+    "company_location": "Milwaukee, WI",
+    "company_name": "Q9Software",
+    "company_score": 3.1,
+    "date": "27d",
+    "job_id": "software_engineering_398"
+  },
+  {
+    "job_title": "Engineer IV Software",
+    "salary_in_usd": 126500,
+    "company_location": "Jacksonville, FL",
+    "company_name": "JPMorgan Chase & Co",
+    "company_score": 3.8,
+    "date": "27d",
+    "job_id": "software_engineering_399"
+  },
+  {
+    "job_title": "Entry Level to Senior Level Software Developers",
+    "salary_in_usd": 185000,
+    "company_location": "Germantown, MD",
+    "company_name": "The Bank of New York Mellon Corporation",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_400"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 105500,
+    "company_location": "Jersey City, NJ",
+    "company_name": "Cisco Systems",
+    "company_score": 4.5,
+    "date": "4d",
+    "job_id": "software_engineering_401"
+  },
+  {
+    "job_title": "2025 BNY Summer Internship Program - Engineering (Developer)",
+    "salary_in_usd": 195500,
+    "company_location": "Pittsburgh, PA",
+    "company_name": "Grand Canyon Education",
+    "company_score": 4.0,
+    "date": "6d",
+    "job_id": "software_engineering_402"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 106500,
+    "company_location": "San Jose, CA",
+    "company_name": "Captivation Software",
+    "company_score": 3.3,
+    "date": "30d+",
+    "job_id": "software_engineering_403"
+  },
+  {
+    "job_title": "Jr. Developer",
+    "salary_in_usd": 108500,
+    "company_location": "Phoenix, AZ",
+    "company_name": "DocuSign",
+    "company_score": 4.6,
+    "date": "3d",
+    "job_id": "software_engineering_404"
+  },
+  {
+    "job_title": "Software Engineer 0 - Java/React/Docker/AWS",
+    "salary_in_usd": 153500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Canon Medical Research USA, Inc.",
+    "company_score": 3.6,
+    "date": "30d",
+    "job_id": "software_engineering_405"
+  },
+  {
+    "job_title": "AI SaaS Engineer",
+    "salary_in_usd": 82000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Standard Bots",
+    "company_score": 2.5,
+    "date": "1d",
+    "job_id": "software_engineering_406"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 94500,
+    "company_location": "Boston, MA",
+    "company_name": "American AgCredit",
+    "company_score": 4.1,
+    "date": "1d",
+    "job_id": "software_engineering_407"
+  },
+  {
+    "job_title": "Software Quality Engineer",
+    "salary_in_usd": 100000,
+    "company_location": "Glen Cove, NY",
+    "company_name": "KAPSCH",
+    "company_score": 4.0,
+    "date": "11d",
+    "job_id": "software_engineering_408"
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "salary_in_usd": 120000,
+    "company_location": "Remote",
+    "company_name": "Prevail",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_409"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 177000,
+    "company_location": "Chantilly, VA",
+    "company_name": "DCS Corp",
+    "company_score": 4.8,
+    "date": "30d+",
+    "job_id": "software_engineering_410"
+  },
+  {
+    "job_title": "Software Engineer Video",
+    "salary_in_usd": 126000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Consensus Health",
+    "company_score": 3.9,
+    "date": "5d",
+    "job_id": "software_engineering_411"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 102500,
+    "company_location": "Dayton, OH",
+    "company_name": "Rippling",
+    "company_score": 4.2,
+    "date": "3d",
+    "job_id": "software_engineering_412"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "salary_in_usd": 240000,
+    "company_location": "Lenexa, KS",
+    "company_name": "ACI Worldwide",
+    "company_score": 4.0,
+    "date": "5d",
+    "job_id": "software_engineering_413"
+  },
+  {
+    "job_title": "Full Stack Engineer II (Frontend) - Benefits",
+    "salary_in_usd": 62000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Engineering Technology Associates, Inc.",
+    "company_score": 5.0,
+    "date": "2d",
+    "job_id": "software_engineering_414"
+  },
+  {
+    "job_title": "Software Engineer - Hybrid",
+    "salary_in_usd": 95000,
+    "company_location": "Norcross, GA",
+    "company_name": "Fusion Innovation",
+    "company_score": 5.0,
+    "date": "3d",
+    "job_id": "software_engineering_415"
+  },
+  {
+    "job_title": "Software Test Engineer",
+    "salary_in_usd": 192500,
+    "company_location": "Dearborn, MI",
+    "company_name": "Clarity Innovations, LLC",
+    "company_score": 4.1,
+    "date": "1d",
+    "job_id": "software_engineering_416"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 116500,
+    "company_location": "Herndon, VA",
+    "company_name": "RippleMatch Opportunities",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_417"
+  },
+  {
+    "job_title": "Jr. Java Software Engineer (SWE1) (PP) 228",
+    "salary_in_usd": 122500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Power3 Solutions and Partnering Companies",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_418"
+  },
+  {
+    "job_title": "IMC - Software Engineer, application via RippleMatch",
+    "salary_in_usd": 195000,
+    "company_location": "Chicago, IL",
+    "company_name": "Datadog",
+    "company_score": 3.9,
+    "date": "4d",
+    "job_id": "software_engineering_419"
+  },
+  {
+    "job_title": "Python Engineer",
+    "salary_in_usd": 165000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "PACCAR",
+    "company_score": 4.2,
+    "date": "10d",
+    "job_id": "software_engineering_420"
+  },
+  {
+    "job_title": "Vehicle Software and Diagnostics Tool Test Engineer",
+    "salary_in_usd": 115000,
+    "company_location": "Mount Vernon, WA",
+    "company_name": "Northrop Grumman",
+    "company_score": 4.1,
+    "date": "4d",
+    "job_id": "software_engineering_421"
+  },
+  {
+    "job_title": "Backend Software Engineer, Deliverability",
+    "salary_in_usd": 188000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Pegasystems",
+    "company_score": 4.1,
+    "date": "4d",
+    "job_id": "software_engineering_422"
+  },
+  {
+    "job_title": "2024 Associate Software Engineer - Linthicum MD",
+    "salary_in_usd": 104000,
+    "company_location": "Linthicum, MD",
+    "company_name": "Lawrence Berkeley National Laboratory",
+    "company_score": 3.6,
+    "date": "1d",
+    "job_id": "software_engineering_423"
+  },
+  {
+    "job_title": "Associate Software Engineer, Services Engineering",
+    "salary_in_usd": 130000,
+    "company_location": "Waltham, MA",
+    "company_name": "Cargill",
+    "company_score": 3.5,
+    "date": "3d",
+    "job_id": "software_engineering_424"
+  },
+  {
+    "job_title": "Optimization Software Engineer",
+    "salary_in_usd": 99000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Zoox",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_425"
+  },
+  {
+    "job_title": "Associate Software Engineer - Technology Development Program, Summer 2025 - Atlanta, GA",
+    "salary_in_usd": 157500,
+    "company_location": "Atlanta, GA",
+    "company_name": "GLOBALFOUNDRIES",
+    "company_score": 3.7,
+    "date": "1d",
+    "job_id": "software_engineering_426"
+  },
+  {
+    "job_title": "Software Engineer - Perception ML Ops",
+    "salary_in_usd": 197000,
+    "company_location": "Boston, MA",
+    "company_name": "TRU47",
+    "company_score": 4.8,
+    "date": "30d+",
+    "job_id": "software_engineering_427"
+  },
+  {
+    "job_title": "Design Enablement Engineer, Software Engineering AI/Machine Learning (2024 New College Graduate)",
+    "salary_in_usd": 78000,
+    "company_location": "Malta, NY",
+    "company_name": "Schneider Electric",
+    "company_score": 4.1,
+    "date": "23d",
+    "job_id": "software_engineering_428"
+  },
+  {
+    "job_title": "Shopify Webmaster",
+    "salary_in_usd": 107500,
+    "company_location": "Remote",
+    "company_name": "Gopuff",
+    "company_score": 3.2,
+    "date": "3d",
+    "job_id": "software_engineering_429"
+  },
+  {
+    "job_title": "Software Development Test Engineer - Electrical IoT Devices",
+    "salary_in_usd": 223000,
+    "company_location": "Foxborough, MA",
+    "company_name": "Gopuff",
+    "company_score": 3.6,
+    "date": "1d",
+    "job_id": "software_engineering_430"
+  },
+  {
+    "job_title": "Senior Software Engineer - Delivery Tech",
+    "salary_in_usd": 114000,
+    "company_location": "Miami, FL",
+    "company_name": "Camelot Integrated Solutions Inc.",
+    "company_score": 3.9,
+    "date": "17d",
+    "job_id": "software_engineering_431"
+  },
+  {
+    "job_title": "Senior Software Engineer - Warehouse",
+    "salary_in_usd": 167500,
+    "company_location": "Miami, FL",
+    "company_name": "CVS Health",
+    "company_score": 5.0,
+    "date": "17d",
+    "job_id": "software_engineering_432"
+  },
+  {
+    "job_title": "Senior Software Engineer I",
+    "salary_in_usd": 250000,
+    "company_location": "Houston, TX",
+    "company_name": "BOEING",
+    "company_score": 4.6,
+    "date": "30d+",
+    "job_id": "software_engineering_433"
+  },
+  {
+    "job_title": "Software Engineer - Enterprise Identity Services",
+    "salary_in_usd": 163000,
+    "company_location": "Hartford, CT",
+    "company_name": "Publix",
+    "company_score": 3.4,
+    "date": "11d",
+    "job_id": "software_engineering_434"
+  },
+  {
+    "job_title": "Software Engineer - Junior Level",
+    "salary_in_usd": 90000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Experian",
+    "company_score": 4.9,
+    "date": "11d",
+    "job_id": "software_engineering_435"
+  },
+  {
+    "job_title": "Software Engineer \u2013 Customer Payments Support",
+    "salary_in_usd": 90000,
+    "company_location": "Lakeland, FL",
+    "company_name": "OpenAI",
+    "company_score": 4.3,
+    "date": "20d",
+    "job_id": "software_engineering_436"
+  },
+  {
+    "job_title": "Software Engineer, Full Stack",
+    "salary_in_usd": 181500,
+    "company_location": "San Francisco, CA",
+    "company_name": "Alterra Mountain Company",
+    "company_score": 4.2,
+    "date": "6d",
+    "job_id": "software_engineering_437"
+  },
+  {
+    "job_title": "Senior Frontend Software Engineer - Customer Service Plateform - Seattle",
+    "salary_in_usd": 117500,
+    "company_location": "Seattle, WA",
+    "company_name": "Experian",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_438"
+  },
+  {
+    "job_title": "Software Engineer, Mobile (React Native)",
+    "salary_in_usd": 95000,
+    "company_location": "Denver, CO",
+    "company_name": "Clarity Innovations, LLC",
+    "company_score": 3.4,
+    "date": "13d",
+    "job_id": "software_engineering_439"
+  },
+  {
+    "job_title": "Junior Software Engineer (SWE1) (QC) TTO16-022",
+    "salary_in_usd": 133000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "BOEING",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_440"
+  },
+  {
+    "job_title": "Front End/UI Mid-Level Software Engineer",
+    "salary_in_usd": 117000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Macy\u2019s",
+    "company_score": 4.1,
+    "date": "16d",
+    "job_id": "software_engineering_441"
+  },
+  {
+    "job_title": "DSP Software Engineer",
+    "salary_in_usd": 95500,
+    "company_location": "Framingham, MA",
+    "company_name": "Microsoft",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_442"
+  },
+  {
+    "job_title": "Lead Software Engineer - Supply Chain",
+    "salary_in_usd": 233500,
+    "company_location": "Johns Creek, GA",
+    "company_name": "DraftKings",
+    "company_score": 4.1,
+    "date": "2d",
+    "job_id": "software_engineering_443"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 130000,
+    "company_location": "Redmond, WA",
+    "company_name": "GE Appliances",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_444"
+  },
+  {
+    "job_title": "Senior Software Engineer, IOS",
+    "salary_in_usd": 106000,
+    "company_location": "Remote",
+    "company_name": "Quantum Systems Inc",
+    "company_score": 4.1,
+    "date": "18d",
+    "job_id": "software_engineering_445"
+  },
+  {
+    "job_title": "Software Engineering Co-op_Summer 2025",
+    "salary_in_usd": 255000,
+    "company_location": "Louisville, KY",
+    "company_name": "Kaseware, Inc.",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_446"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 111000,
+    "company_location": "Moorpark, CA",
+    "company_name": "Microsoft",
+    "company_score": 4.1,
+    "date": "19d",
+    "job_id": "software_engineering_447"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 129000,
+    "company_location": "Denver, CO",
+    "company_name": "CVS Health",
+    "company_score": 4.2,
+    "date": "27d",
+    "job_id": "software_engineering_448"
+  },
+  {
+    "job_title": "Software Engineer II - Automated Reasoning and Testing",
+    "salary_in_usd": 130000,
+    "company_location": "Redmond, WA",
+    "company_name": "JBT Corporation",
+    "company_score": 4.6,
+    "date": "5d",
+    "job_id": "software_engineering_449"
+  },
+  {
+    "job_title": "Sr Software Development Engineer",
+    "salary_in_usd": 111000,
+    "company_location": "Buffalo Grove, IL",
+    "company_name": "Fanatics Inc.",
+    "company_score": 3.9,
+    "date": "3d",
+    "job_id": "software_engineering_450"
+  },
+  {
+    "job_title": "Senior Software Engineer C++",
+    "salary_in_usd": 147500,
+    "company_location": "Chalfont, PA",
+    "company_name": "Innovative Defense Technologies (IDT)",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_451"
+  },
+  {
+    "job_title": "Frontend Software Engineer",
+    "salary_in_usd": 76000,
+    "company_location": "Mount Laurel, NJ",
+    "company_name": "Crunchyroll, LLC",
+    "company_score": 4.2,
+    "date": "5d",
+    "job_id": "software_engineering_452"
+  },
+  {
+    "job_title": "Engineer I-Software",
+    "salary_in_usd": 120500,
+    "company_location": "San Jose, CA",
+    "company_name": "Accrete.AI",
+    "company_score": 3.7,
+    "date": "23d",
+    "job_id": "software_engineering_453"
+  },
+  {
+    "job_title": "Software Engineer III, Android",
+    "salary_in_usd": 120000,
+    "company_location": "Culver City, CA",
+    "company_name": "Roku",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_454"
+  },
+  {
+    "job_title": "Machine Learning Engineer (Early Career)",
+    "salary_in_usd": 104000,
+    "company_location": "New York, NY",
+    "company_name": "Early Warning Services",
+    "company_score": 3.6,
+    "date": "19d",
+    "job_id": "software_engineering_455"
+  },
+  {
+    "job_title": "Senior Software Engineer, Service Mesh",
+    "salary_in_usd": 165500,
+    "company_location": "Boston, MA",
+    "company_name": "Workday",
+    "company_score": 5.0,
+    "date": "5d",
+    "job_id": "software_engineering_456"
+  },
+  {
+    "job_title": "Software Engineer - Java, Zelle",
+    "salary_in_usd": 92500,
+    "company_location": "Scottsdale, AZ",
+    "company_name": "Grainger",
+    "company_score": 4.1,
+    "date": "1d",
+    "job_id": "software_engineering_457"
+  },
+  {
+    "job_title": "Front-End Engineer - Content Platform",
+    "salary_in_usd": 112500,
+    "company_location": "Boulder, CO",
+    "company_name": "Costco Wholesale",
+    "company_score": 4.7,
+    "date": "30d+",
+    "job_id": "software_engineering_458"
+  },
+  {
+    "job_title": "Software Engineer IV (Success Factors - Employee Central Payroll)",
+    "salary_in_usd": 108000,
+    "company_location": "Lake Forest, IL",
+    "company_name": "Mochi Health",
+    "company_score": 3.5,
+    "date": "1d",
+    "job_id": "software_engineering_459"
+  },
+  {
+    "job_title": "Software Engineer - Digital Data Products",
+    "salary_in_usd": 152500,
+    "company_location": "Seattle, WA",
+    "company_name": "Jacobs",
+    "company_score": 4.2,
+    "date": "10d",
+    "job_id": "software_engineering_460"
+  },
+  {
+    "job_title": "Senior Software Engineer, Frontend",
+    "salary_in_usd": 116500,
+    "company_location": "San Francisco, CA",
+    "company_name": "Boeing Intelligence & Analytics",
+    "company_score": 4.2,
+    "date": "7d",
+    "job_id": "software_engineering_461"
+  },
+  {
+    "job_title": "Software Test Engineer",
+    "salary_in_usd": 178000,
+    "company_location": "Kennedy Space Center, FL",
+    "company_name": "NetApp",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_462"
+  },
+  {
+    "job_title": "Entry Level Software Engineer",
+    "salary_in_usd": 96500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Alphataraxia",
+    "company_score": 3.9,
+    "date": "4d",
+    "job_id": "software_engineering_463"
+  },
+  {
+    "job_title": "Software Engineer - C/C++",
+    "salary_in_usd": 132500,
+    "company_location": "San Jose, CA",
+    "company_name": "DaqScribe Solutions",
+    "company_score": 4.7,
+    "date": "10d",
+    "job_id": "software_engineering_464"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 490000,
+    "company_location": "Washington, DC",
+    "company_name": "BOEING",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_465"
+  },
+  {
+    "job_title": "Software Engineer II - .Net, C#, Azure",
+    "salary_in_usd": 139500,
+    "company_location": "Phoenix, AZ",
+    "company_name": "State Street",
+    "company_score": 3.4,
+    "date": "13d",
+    "job_id": "software_engineering_466"
+  },
+  {
+    "job_title": "Senior Software Engineer - Courier Pricing",
+    "salary_in_usd": 96500,
+    "company_location": "New York, NY",
+    "company_name": "Garmin International, Inc.",
+    "company_score": 3.9,
+    "date": "1d",
+    "job_id": "software_engineering_467"
+  },
+  {
+    "job_title": "Software Quality Assurance Engineer, Assistance Vice President",
+    "salary_in_usd": 120000,
+    "company_location": "Quincy, MA",
+    "company_name": "Adobe",
+    "company_score": 4.5,
+    "date": "30d+",
+    "job_id": "software_engineering_468"
+  },
+  {
+    "job_title": "Embedded Software Engineer",
+    "salary_in_usd": 114000,
+    "company_location": "Salem, OR",
+    "company_name": "Honeywell",
+    "company_score": 5.0,
+    "date": "11d",
+    "job_id": "software_engineering_469"
+  },
+  {
+    "job_title": "Software Development Engineer",
+    "salary_in_usd": 115500,
+    "company_location": "Lehi, UT",
+    "company_name": "Honeywell",
+    "company_score": 4.3,
+    "date": "20d",
+    "job_id": "software_engineering_470"
+  },
+  {
+    "job_title": "Software Engineering/Electrical Engineering Co-op - Fall 2024 (US Persons)",
+    "salary_in_usd": 115000,
+    "company_location": "Mason, OH",
+    "company_name": "Johns Hopkins University",
+    "company_score": 4.8,
+    "date": "27d",
+    "job_id": "software_engineering_471"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 167000,
+    "company_location": "Mason, OH",
+    "company_name": "University of Vermont",
+    "company_score": 4.1,
+    "date": "5d",
+    "job_id": "software_engineering_472"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 226000,
+    "company_location": "Baltimore, MD",
+    "company_name": "Federal Reserve Bank of Dallas",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_473"
+  },
+  {
+    "job_title": "Research Software Engineer",
+    "salary_in_usd": 153500,
+    "company_location": "Burlington, VT",
+    "company_name": "Grammarly, Inc.",
+    "company_score": 4.0,
+    "date": "4d",
+    "job_id": "software_engineering_474"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 91000,
+    "company_location": "Dallas, TX",
+    "company_name": "SCD Information Technology",
+    "company_score": 3.9,
+    "date": "23d",
+    "job_id": "software_engineering_475"
+  },
+  {
+    "job_title": "Sr. Software Engineer",
+    "salary_in_usd": 96000,
+    "company_location": "Columbia, MD",
+    "company_name": "Akina, Inc.",
+    "company_score": 4.0,
+    "date": "1d",
+    "job_id": "software_engineering_476"
+  },
+  {
+    "job_title": "Software Engineer - Level 1 (RR) RRTN-8319",
+    "salary_in_usd": 166500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Volvo Group",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_477"
+  },
+  {
+    "job_title": "Software Engineer - 3 (JavaScript/Go/Python)",
+    "salary_in_usd": 191000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Calspan Corporation",
+    "company_score": 3.7,
+    "date": "3d",
+    "job_id": "software_engineering_478"
+  },
+  {
+    "job_title": "Co-Op: Software (Spring 2025)",
+    "salary_in_usd": 109500,
+    "company_location": "Shippensburg, PA",
+    "company_name": "Zoox",
+    "company_score": 4.2,
+    "date": "11d",
+    "job_id": "software_engineering_479"
+  },
+  {
+    "job_title": "Associate Software Engineer, Edwards Air Force Base",
+    "salary_in_usd": 107500,
+    "company_location": "Edwards AFB, CA",
+    "company_name": "Garmin International, Inc.",
+    "company_score": 3.8,
+    "date": "26d",
+    "job_id": "software_engineering_480"
+  },
+  {
+    "job_title": "Software Engineer - Rider Support Tools",
+    "salary_in_usd": 198000,
+    "company_location": "Foster City, CA",
+    "company_name": "Root//Source",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_481"
+  },
+  {
+    "job_title": "Senior Software Engineer - Aviation Databases",
+    "salary_in_usd": 80500,
+    "company_location": "Olathe, KS",
+    "company_name": "HireIO, Inc.",
+    "company_score": 3.6,
+    "date": "30d",
+    "job_id": "software_engineering_482"
+  },
+  {
+    "job_title": "Full Stack Java Software Engineer (hybrid)",
+    "salary_in_usd": 73500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "PAC GROUP LLC",
+    "company_score": 3.5,
+    "date": "12d",
+    "job_id": "software_engineering_483"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 125500,
+    "company_location": "San Jose, CA",
+    "company_name": "Fanatics Inc.",
+    "company_score": 3.0,
+    "date": "12d",
+    "job_id": "software_engineering_484"
+  },
+  {
+    "job_title": "Software and Systems Engineer",
+    "salary_in_usd": 97500,
+    "company_location": "Suffolk, VA",
+    "company_name": "Emergent Software",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_485"
+  },
+  {
+    "job_title": "Sr Software Engineer (Back-end)",
+    "salary_in_usd": 80000,
+    "company_location": "New York, NY",
+    "company_name": "Harvard University",
+    "company_score": 4.1,
+    "date": "18d",
+    "job_id": "software_engineering_486"
+  },
+  {
+    "job_title": "Sr. Software Engineer, HBS Online",
+    "salary_in_usd": 96500,
+    "company_location": "Boston, MA",
+    "company_name": "Intone Networks",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_487"
+  },
+  {
+    "job_title": "Software Development Engineer in Test",
+    "salary_in_usd": 86500,
+    "company_location": "Foster City, CA",
+    "company_name": "CARTIKTECH LLC",
+    "company_score": 4.1,
+    "date": "6d",
+    "job_id": "software_engineering_488"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 172000,
+    "company_location": "Austin, TX",
+    "company_name": "Abbott Laboratories",
+    "company_score": 3.9,
+    "date": "19d",
+    "job_id": "software_engineering_489"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 176500,
+    "company_location": "Chicago, IL",
+    "company_name": "Prove",
+    "company_score": 3.4,
+    "date": "4d",
+    "job_id": "software_engineering_490"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 169000,
+    "company_location": "Sylmar, CA",
+    "company_name": "Fanatics Inc.",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_491"
+  },
+  {
+    "job_title": "Senior Software Engineer, Orchestration Team",
+    "salary_in_usd": 100650,
+    "company_location": "Chicago, IL",
+    "company_name": "Schweitzer Engineering Laboratories",
+    "company_score": 4.2,
+    "date": "6d",
+    "job_id": "software_engineering_492"
+  },
+  {
+    "job_title": "Software Engineer III",
+    "salary_in_usd": 200000,
+    "company_location": "New York, NY",
+    "company_name": "Themis Insight",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_493"
+  },
+  {
+    "job_title": "Associate Software Engineer - C# Emphasis",
+    "salary_in_usd": 160000,
+    "company_location": "Pullman, WA",
+    "company_name": "World Vision USA",
+    "company_score": 4.9,
+    "date": "30d+",
+    "job_id": "software_engineering_494"
+  },
+  {
+    "job_title": "Jr. Software Engineer - Hybrid/Remote",
+    "salary_in_usd": 83500,
+    "company_location": "Remote",
+    "company_name": "Rippling",
+    "company_score": 3.7,
+    "date": "2d",
+    "job_id": "software_engineering_495"
+  },
+  {
+    "job_title": "ML Software Engineer",
+    "salary_in_usd": 128500,
+    "company_location": "Remote",
+    "company_name": "NetApp",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_496"
+  },
+  {
+    "job_title": "Software Developer Engineer, IT Technical Operations",
+    "salary_in_usd": 155000,
+    "company_location": "Honolulu, HI",
+    "company_name": "Quantum Systems Inc",
+    "company_score": 4.1,
+    "date": "10d",
+    "job_id": "software_engineering_497"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 216500,
+    "company_location": "Remote",
+    "company_name": "Salesforce",
+    "company_score": 3.9,
+    "date": "10d",
+    "job_id": "software_engineering_498"
+  },
+  {
+    "job_title": "Software Engineer Lead",
+    "salary_in_usd": 115500,
+    "company_location": "Moorpark, CA",
+    "company_name": "Visa",
+    "company_score": 3.7,
+    "date": "12d",
+    "job_id": "software_engineering_499"
+  },
+  {
+    "job_title": "Full-Stack Software Engineer \u2013 LMTS / PMTS",
+    "salary_in_usd": 226000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Honeywell",
+    "company_score": 3.6,
+    "date": "30d+",
+    "job_id": "software_engineering_500"
+  },
+  {
+    "job_title": "Software Engineer \u2013 Senior Consultant Level - Tink",
+    "salary_in_usd": 115500,
+    "company_location": "Austin, TX",
+    "company_name": "Oliver Wyman Group",
+    "company_score": 3.4,
+    "date": "4d",
+    "job_id": "software_engineering_501"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "salary_in_usd": 98500,
+    "company_location": "Richardson, TX",
+    "company_name": "NVIDIA",
+    "company_score": 2.5,
+    "date": "30d+",
+    "job_id": "software_engineering_502"
+  },
+  {
+    "job_title": "NERA Associate Software Engineer",
+    "salary_in_usd": 188000,
+    "company_location": "White Plains, NY",
+    "company_name": "Morgan Stanley",
+    "company_score": 4.4,
+    "date": "30d+",
+    "job_id": "software_engineering_503"
+  },
+  {
+    "job_title": "System Software Engineer \u2013 Autonomous Vehicles Platform",
+    "salary_in_usd": 150000,
+    "company_location": "Santa Clara, CA",
+    "company_name": "Amex",
+    "company_score": 4.5,
+    "date": "30d+",
+    "job_id": "software_engineering_504"
+  },
+  {
+    "job_title": "Associate, Python / Perl Dev",
+    "salary_in_usd": 96500,
+    "company_location": "Alpharetta, GA",
+    "company_name": "Multi State Lottery Association",
+    "company_score": 4.0,
+    "date": "10d",
+    "job_id": "software_engineering_505"
+  },
+  {
+    "job_title": "Backend Software Engineer, Digital Banking-Payments",
+    "salary_in_usd": 99000,
+    "company_location": "Phoenix, AZ",
+    "company_name": "EOG Resources",
+    "company_score": 3.4,
+    "date": "6d",
+    "job_id": "software_engineering_506"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 168000,
+    "company_location": "Johnston, IA",
+    "company_name": "BAXTER",
+    "company_score": 3.7,
+    "date": "11d",
+    "job_id": "software_engineering_507"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "salary_in_usd": 188000,
+    "company_location": "Houston, TX",
+    "company_name": "Afterpay",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_508"
+  },
+  {
+    "job_title": "Senior Backend Software Engineer (Hybrid)",
+    "salary_in_usd": 112500,
+    "company_location": "Bellevue, WA",
+    "company_name": "U.S. Bank National Association",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_509"
+  },
+  {
+    "job_title": "Software Engineer - PubSub, Cash App",
+    "salary_in_usd": 105000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Geon Technologies",
+    "company_score": 3.8,
+    "date": "1d",
+    "job_id": "software_engineering_510"
+  },
+  {
+    "job_title": "Software Engineer 2 - Mainframe (Cobol, JCL, VSAM)",
+    "salary_in_usd": 387500,
+    "company_location": "Brookfield, WI",
+    "company_name": "INTEL",
+    "company_score": 5.0,
+    "date": "12d",
+    "job_id": "software_engineering_511"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 138500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "TDI Technologies",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_512"
+  },
+  {
+    "job_title": "Software Engineer / Simulation - Virtual Prototyping",
+    "salary_in_usd": 253000,
+    "company_location": "San Jose, CA",
+    "company_name": "DAIKIN COMFORT TECHNOLOGIES MFG LP",
+    "company_score": 4.3,
+    "date": "21d",
+    "job_id": "software_engineering_513"
+  },
+  {
+    "job_title": "SOFTWARE ENGINEER 3",
+    "salary_in_usd": 228500,
+    "company_location": "Chatsworth, CA",
+    "company_name": "Intone Networks",
+    "company_score": 3.6,
+    "date": "4d",
+    "job_id": "software_engineering_514"
+  },
+  {
+    "job_title": "Software Engineer in Test",
+    "salary_in_usd": 212500,
+    "company_location": "Westlake, TX",
+    "company_name": "Wise",
+    "company_score": 3.6,
+    "date": "25d",
+    "job_id": "software_engineering_515"
+  },
+  {
+    "job_title": "Jr Cloud Engineer",
+    "salary_in_usd": 80000,
+    "company_location": "Phoenix, AZ",
+    "company_name": "Garmin International, Inc.",
+    "company_score": 3.1,
+    "date": "9d",
+    "job_id": "software_engineering_516"
+  },
+  {
+    "job_title": "Senior Software Engineer II, Wise Account",
+    "salary_in_usd": 97500,
+    "company_location": "Austin, TX",
+    "company_name": "Nyla Technology Solutions",
+    "company_score": 4.2,
+    "date": "19d",
+    "job_id": "software_engineering_517"
+  },
+  {
+    "job_title": "Senior .NET Software Engineer",
+    "salary_in_usd": 101500,
+    "company_location": "Cary, NC",
+    "company_name": "Wellington Management",
+    "company_score": 3.0,
+    "date": "4d",
+    "job_id": "software_engineering_518"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 134500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Synergy ECP",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_519"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 132000,
+    "company_location": "Boston, MA",
+    "company_name": "Costco Wholesale",
+    "company_score": 3.1,
+    "date": "30d+",
+    "job_id": "software_engineering_520"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 130500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Vizient, Inc.",
+    "company_score": 4.5,
+    "date": "30d+",
+    "job_id": "software_engineering_521"
+  },
+  {
+    "job_title": "Software Engineer - IT Sustainability",
+    "salary_in_usd": 135000,
+    "company_location": "Seattle, WA",
+    "company_name": "Leidos",
+    "company_score": 3.7,
+    "date": "17d",
+    "job_id": "software_engineering_522"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 108000,
+    "company_location": "Irving, TX",
+    "company_name": "Noblis",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_523"
+  },
+  {
+    "job_title": "Junior Software Engineer - Panama Shift!",
+    "salary_in_usd": 70000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "ELEVI Associates",
+    "company_score": 4.7,
+    "date": "30d+",
+    "job_id": "software_engineering_524"
+  },
+  {
+    "job_title": "Software Solutions Engineer \u2013 Multiple Levels",
+    "salary_in_usd": 144500,
+    "company_location": "Oklahoma City, OK",
+    "company_name": "ASCENDING",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_525"
+  },
+  {
+    "job_title": "Sr Software Engineer",
+    "salary_in_usd": 97000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Trellint",
+    "company_score": 4.0,
+    "date": "4d",
+    "job_id": "software_engineering_526"
+  },
+  {
+    "job_title": "Cloud Software Engineer",
+    "salary_in_usd": 119000,
+    "company_location": "Fairfax, VA",
+    "company_name": "Synergy ECP",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_527"
+  },
+  {
+    "job_title": "Software Engineer 1",
+    "salary_in_usd": 89000,
+    "company_location": "Columbia, MD",
+    "company_name": "Trusted Space, Inc.",
+    "company_score": 4.4,
+    "date": "30d+",
+    "job_id": "software_engineering_528"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 167500,
+    "company_location": "Highlands Ranch, CO",
+    "company_name": "State Street",
+    "company_score": 4.2,
+    "date": "2d",
+    "job_id": "software_engineering_529"
+  },
+  {
+    "job_title": "Software Development Engineer, Officer, Onsite",
+    "salary_in_usd": 130000,
+    "company_location": "Quincy, MA",
+    "company_name": "BorgWarner",
+    "company_score": 1.0,
+    "date": "3d",
+    "job_id": "software_engineering_530"
+  },
+  {
+    "job_title": "Node.js/Kotlin Software Engineer IV",
+    "salary_in_usd": 75000,
+    "company_location": "Jacksonville, FL",
+    "company_name": "Ford Motor Company",
+    "company_score": 4.1,
+    "date": "24d",
+    "job_id": "software_engineering_531"
+  },
+  {
+    "job_title": "Software Resident Engineer",
+    "salary_in_usd": 85000,
+    "company_location": "Auburn Hills, MI",
+    "company_name": "Forterra",
+    "company_score": 3.9,
+    "date": "6d",
+    "job_id": "software_engineering_532"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 102000,
+    "company_location": "Dearborn, MI",
+    "company_name": "Epsilon",
+    "company_score": 3.1,
+    "date": "5d",
+    "job_id": "software_engineering_533"
+  },
+  {
+    "job_title": "Perception Software Engineer - ML Ops",
+    "salary_in_usd": 127500,
+    "company_location": "Remote",
+    "company_name": "ByteDance",
+    "company_score": 3.3,
+    "date": "30d+",
+    "job_id": "software_engineering_534"
+  },
+  {
+    "job_title": "Senior Front End Software Engineer",
+    "salary_in_usd": 108000,
+    "company_location": "Chicago, IL",
+    "company_name": "Logistics Management Institute",
+    "company_score": 3.7,
+    "date": "10d",
+    "job_id": "software_engineering_535"
+  },
+  {
+    "job_title": "Software Engineer (Data Security-US) - 2025 Start (BS/MS)",
+    "salary_in_usd": 132000,
+    "company_location": "San Jose, CA",
+    "company_name": "Hottinger, Bruel & Kjaer",
+    "company_score": 3.9,
+    "date": "6d",
+    "job_id": "software_engineering_536"
+  },
+  {
+    "job_title": "Cloud Engineer",
+    "salary_in_usd": 115000,
+    "company_location": "Remote",
+    "company_name": "Sirius XM",
+    "company_score": 3.6,
+    "date": "3d",
+    "job_id": "software_engineering_537"
+  },
+  {
+    "job_title": "Custom Software Engineer",
+    "salary_in_usd": 125000,
+    "company_location": "Pompano Beach, FL",
+    "company_name": "Warner Bros. Discovery",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_538"
+  },
+  {
+    "job_title": "Senior Software Engineer - Python, Celery, Redis",
+    "salary_in_usd": 99500,
+    "company_location": "Oakland, CA",
+    "company_name": "Peloton",
+    "company_score": 3.3,
+    "date": "3d",
+    "job_id": "software_engineering_539"
+  },
+  {
+    "job_title": "Software Engineer- Backend",
+    "salary_in_usd": 153000,
+    "company_location": "Fremont, CA",
+    "company_name": "Corteva",
+    "company_score": 3.9,
+    "date": "19d",
+    "job_id": "software_engineering_540"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 151000,
+    "company_location": "Elkridge, MD",
+    "company_name": "IntraFi Network",
+    "company_score": 3.3,
+    "date": "3d",
+    "job_id": "software_engineering_541"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 105500,
+    "company_location": "Johnston, IA",
+    "company_name": "PSEG",
+    "company_score": 3.9,
+    "date": "9d",
+    "job_id": "software_engineering_542"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 75000,
+    "company_location": "Arlington, VA",
+    "company_name": "Ryzlink DBA Chuwa America",
+    "company_score": 3.1,
+    "date": "13d",
+    "job_id": "software_engineering_543"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 112500,
+    "company_location": "Bethpage, NY",
+    "company_name": "Trane Technologies",
+    "company_score": 3.6,
+    "date": "10d",
+    "job_id": "software_engineering_544"
+  },
+  {
+    "job_title": "Software Programmer",
+    "salary_in_usd": 130500,
+    "company_location": "Santa Clara, CA",
+    "company_name": "Discord",
+    "company_score": 4.3,
+    "date": "5d",
+    "job_id": "software_engineering_545"
+  },
+  {
+    "job_title": "Software Engineer - Innovation",
+    "salary_in_usd": 213000,
+    "company_location": "Saint Paul, MN",
+    "company_name": "Tesla",
+    "company_score": 4.2,
+    "date": "10d",
+    "job_id": "software_engineering_546"
+  },
+  {
+    "job_title": "Software Engineer, Ads (Quests)",
+    "salary_in_usd": 139500,
+    "company_location": "San Francisco, CA",
+    "company_name": "Microsoft",
+    "company_score": 4.0,
+    "date": "18d",
+    "job_id": "software_engineering_547"
+  },
+  {
+    "job_title": "Staff Software Engineer, Backend, Factory Software",
+    "salary_in_usd": 111500,
+    "company_location": "Fremont, CA",
+    "company_name": "First American Financial Corporation",
+    "company_score": 3.7,
+    "date": "4d",
+    "job_id": "software_engineering_548"
+  },
+  {
+    "job_title": "Software Engineer 2",
+    "salary_in_usd": 153770,
+    "company_location": "Redmond, WA",
+    "company_name": "IntraFi Network",
+    "company_score": 3.6,
+    "date": "2d",
+    "job_id": "software_engineering_549"
+  },
+  {
+    "job_title": "Software Engineer II (Hybrid or Remote Possible)",
+    "salary_in_usd": 147500,
+    "company_location": "Idaho Falls, ID",
+    "company_name": "Collins Aerospace",
+    "company_score": 3.5,
+    "date": "1d",
+    "job_id": "software_engineering_550"
+  },
+  {
+    "job_title": "Software Engineer (Customer-Facing Applications)",
+    "salary_in_usd": 83000,
+    "company_location": "Arlington, VA",
+    "company_name": "Roche",
+    "company_score": 4.3,
+    "date": "10d",
+    "job_id": "software_engineering_551"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 176500,
+    "company_location": "Lenexa, KS",
+    "company_name": "Qualtrics",
+    "company_score": 3.0,
+    "date": "15d",
+    "job_id": "software_engineering_552"
+  },
+  {
+    "job_title": "Senior Software Engineer - Digital Pathology",
+    "salary_in_usd": 202000,
+    "company_location": "Santa Clara, CA",
+    "company_name": "Edward Rose & Sons",
+    "company_score": 4.4,
+    "date": "2d",
+    "job_id": "software_engineering_553"
+  },
+  {
+    "job_title": "Senior Software Development Engineer - Data Engineering Team",
+    "salary_in_usd": 91500,
+    "company_location": "Seattle, WA",
+    "company_name": "Michelin",
+    "company_score": 5.0,
+    "date": "8d",
+    "job_id": "software_engineering_554"
+  },
+  {
+    "job_title": "Yardi Enterprise Software Support Engineer - Hybrid Remote",
+    "salary_in_usd": 77500,
+    "company_location": "Bloomfield Hills, MI",
+    "company_name": "Garmin International, Inc.",
+    "company_score": 4.7,
+    "date": "11d",
+    "job_id": "software_engineering_555"
+  },
+  {
+    "job_title": "Software Engineer(Entry/Experienced) SPA",
+    "salary_in_usd": 112500,
+    "company_location": "Spartanburg, SC",
+    "company_name": "Smart IMS",
+    "company_score": 4.3,
+    "date": "26d",
+    "job_id": "software_engineering_556"
+  },
+  {
+    "job_title": "Embedded C / Linux Software Engineer - Marine",
+    "salary_in_usd": 130000,
+    "company_location": "Olathe, KS",
+    "company_name": "Wipro",
+    "company_score": 3.9,
+    "date": "23d",
+    "job_id": "software_engineering_557"
+  },
+  {
+    "job_title": "PHP Engineer",
+    "salary_in_usd": 83000,
+    "company_location": "Tampa, FL",
+    "company_name": "VIZIO, Inc.",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_558"
+  },
+  {
+    "job_title": "Associate Design Engineer - Software V&V",
+    "salary_in_usd": 10000,
+    "company_location": "Wauwatosa, WI",
+    "company_name": "Geneva Technologies Inc.",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_559"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 110500,
+    "company_location": "Dallas, TX",
+    "company_name": "ElectronX",
+    "company_score": 4.2,
+    "date": "5d",
+    "job_id": "software_engineering_560"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 135000,
+    "company_location": "Monument, CO",
+    "company_name": "Camelot Integrated Solutions Inc.",
+    "company_score": 3.7,
+    "date": "4d",
+    "job_id": "software_engineering_561"
+  },
+  {
+    "job_title": "Experienced: Core Infrastructure Software Engineer",
+    "salary_in_usd": 181500,
+    "company_location": "Remote",
+    "company_name": "JRC Integrated Systems, LLC",
+    "company_score": 3.7,
+    "date": "3d",
+    "job_id": "software_engineering_562"
+  },
+  {
+    "job_title": "Software Developer (Job Code 001)",
+    "salary_in_usd": 64000,
+    "company_location": "Houston, TX",
+    "company_name": "Sabre Engineering",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_563"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 105500,
+    "company_location": "Dahlgren, VA",
+    "company_name": "Thermoflow",
+    "company_score": 4.2,
+    "date": "30d+",
+    "job_id": "software_engineering_564"
+  },
+  {
+    "job_title": "JR. SOFTWARE ENGINEER",
+    "salary_in_usd": 192500,
+    "company_location": "Columbia, MD",
+    "company_name": "Fanatics Inc.",
+    "company_score": 3.5,
+    "date": "2d",
+    "job_id": "software_engineering_565"
+  },
+  {
+    "job_title": "Computer Science, Software Engineers, Programmers",
+    "salary_in_usd": 126000,
+    "company_location": "Jacksonville, FL",
+    "company_name": "Twitch Interactive, Inc.",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_566"
+  },
+  {
+    "job_title": "Sr Software Engineer",
+    "salary_in_usd": 125000,
+    "company_location": "New York, NY",
+    "company_name": "Adtran",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_567"
+  },
+  {
+    "job_title": "Software Development Engineer",
+    "salary_in_usd": 96000,
+    "company_location": "Seattle, WA",
+    "company_name": "Oncorre",
+    "company_score": 3.8,
+    "date": "5d",
+    "job_id": "software_engineering_568"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 144000,
+    "company_location": "Bridgewater, NJ",
+    "company_name": "Captivation Software",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_569"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 95500,
+    "company_location": "Brooklyn, NY",
+    "company_name": "Invisible Technologies",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_570"
+  },
+  {
+    "job_title": "Software Engineer 2 - DevOps",
+    "salary_in_usd": 114000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Metas Solutions",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_571"
+  },
+  {
+    "job_title": "Senior Software Engineer - Platform",
+    "salary_in_usd": 135000,
+    "company_location": "Remote",
+    "company_name": "GAP Solutions, Inc.",
+    "company_score": 4.0,
+    "date": "16d",
+    "job_id": "software_engineering_572"
+  },
+  {
+    "job_title": "Software Quality Assurance Engineer & Tester",
+    "salary_in_usd": 99500,
+    "company_location": "Atlanta, GA",
+    "company_name": "Independent Software",
+    "company_score": 4.2,
+    "date": "2d",
+    "job_id": "software_engineering_573"
+  },
+  {
+    "job_title": "Software QA Engineer and Tester",
+    "salary_in_usd": 135000,
+    "company_location": "Atlanta, GA",
+    "company_name": "InterImage",
+    "company_score": 4.1,
+    "date": "24h",
+    "job_id": "software_engineering_574"
+  },
+  {
+    "job_title": "Software Integration Engineer, Junior",
+    "salary_in_usd": 220000,
+    "company_location": "Fort Meade, MD",
+    "company_name": "Tickets.com",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_575"
+  },
+  {
+    "job_title": "2251 Java & NiFi Software Engineer",
+    "salary_in_usd": 98500,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Adobe",
+    "company_score": 4.9,
+    "date": "18d",
+    "job_id": "software_engineering_576"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 85000,
+    "company_location": "Boulder, CO",
+    "company_name": "Embecta",
+    "company_score": 3.3,
+    "date": "6d",
+    "job_id": "software_engineering_577"
+  },
+  {
+    "job_title": "Senior Software Development Engineer",
+    "salary_in_usd": 91500,
+    "company_location": "San Jose, CA",
+    "company_name": "Tesla",
+    "company_score": 4.2,
+    "date": "11d",
+    "job_id": "software_engineering_578"
+  },
+  {
+    "job_title": "Senior FullStack Software Engineer (hybrid - Andover, MA)",
+    "salary_in_usd": 112000,
+    "company_location": "Andover, MA",
+    "company_name": "CVS Health",
+    "company_score": 4.1,
+    "date": "6d",
+    "job_id": "software_engineering_579"
+  },
+  {
+    "job_title": "Sr. Software Engineer, Backend, Factory Software",
+    "salary_in_usd": 124500,
+    "company_location": "Fremont, CA",
+    "company_name": "Space Systems Integration",
+    "company_score": 3.0,
+    "date": "4d",
+    "job_id": "software_engineering_580"
+  },
+  {
+    "job_title": "Full-Stack Software Developer",
+    "salary_in_usd": 108500,
+    "company_location": "Hartford, CT",
+    "company_name": "Cash App",
+    "company_score": 4.5,
+    "date": "17d",
+    "job_id": "software_engineering_581"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 84000,
+    "company_location": "Albuquerque, NM",
+    "company_name": "Annapurna Labs (U.S.) Inc.",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_582"
+  },
+  {
+    "job_title": "Software Engineer, Incentive",
+    "salary_in_usd": 171000,
+    "company_location": "Seattle, WA",
+    "company_name": "Index Engines Inc.",
+    "company_score": 3.9,
+    "date": "3d",
+    "job_id": "software_engineering_583"
+  },
+  {
+    "job_title": "Software Dev Engineer - Machine Learning Apps, Accelerator",
+    "salary_in_usd": 240500,
+    "company_location": "Cupertino, CA",
+    "company_name": "Ford Motor Company",
+    "company_score": 4.4,
+    "date": "3d",
+    "job_id": "software_engineering_584"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 205000,
+    "company_location": "Dearborn, MI",
+    "company_name": "Squarespace",
+    "company_score": 3.8,
+    "date": "30d+",
+    "job_id": "software_engineering_585"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 106500,
+    "company_location": "Germantown, MD",
+    "company_name": "Advanced Micro Devices, Inc",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_586"
+  },
+  {
+    "job_title": "Software Development Engineer - AI/ML",
+    "salary_in_usd": 122000,
+    "company_location": "San Jose, CA",
+    "company_name": "Flow Systems, Inc",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_587"
+  },
+  {
+    "job_title": "2128 Software Engineer 1 (Java Focused)",
+    "salary_in_usd": 145000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "OpenAI",
+    "company_score": 4.6,
+    "date": "18d",
+    "job_id": "software_engineering_588"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 91500,
+    "company_location": "Berthoud, CO",
+    "company_name": "Teradyne",
+    "company_score": 3.8,
+    "date": "3d",
+    "job_id": "software_engineering_589"
+  },
+  {
+    "job_title": "Senior Software Engineer, Search Evaluations",
+    "salary_in_usd": 87000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Meta",
+    "company_score": 2.9,
+    "date": "6d",
+    "job_id": "software_engineering_590"
+  },
+  {
+    "job_title": "Software Performance Engineer",
+    "salary_in_usd": 226000,
+    "company_location": "North Reading, MA",
+    "company_name": "Yellow Duck Technologies Inc.",
+    "company_score": 4.3,
+    "date": "18d",
+    "job_id": "software_engineering_591"
+  },
+  {
+    "job_title": "Software Engineer - Camera (Technical Leadership)",
+    "salary_in_usd": 375000,
+    "company_location": "Redmond, WA",
+    "company_name": "Workday",
+    "company_score": 4.0,
+    "date": "3d",
+    "job_id": "software_engineering_592"
+  },
+  {
+    "job_title": "Cleared Junior Software Engineer",
+    "salary_in_usd": 108000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Ops Tech Alliance",
+    "company_score": 4.2,
+    "date": "15d",
+    "job_id": "software_engineering_593"
+  },
+  {
+    "job_title": "Principal Software Engineer",
+    "salary_in_usd": 90000,
+    "company_location": "Seattle, WA",
+    "company_name": "CDK Global",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_594"
+  },
+  {
+    "job_title": "Software Engineer Level 3",
+    "salary_in_usd": 132000,
+    "company_location": "Fort Meade, MD",
+    "company_name": "IAB Solutions LLC",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_595"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "salary_in_usd": 129000,
+    "company_location": "Austin, TX",
+    "company_name": "General Assembly",
+    "company_score": 4.2,
+    "date": "5d",
+    "job_id": "software_engineering_596"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 142500,
+    "company_location": "Whitehall Township, PA",
+    "company_name": "Delta Dental Ins.",
+    "company_score": 4.3,
+    "date": "11d",
+    "job_id": "software_engineering_597"
+  },
+  {
+    "job_title": "Software Engineer Instructor",
+    "salary_in_usd": 103500,
+    "company_location": "Denver, CO",
+    "company_name": "Cotiviti",
+    "company_score": 4.4,
+    "date": "30d+",
+    "job_id": "software_engineering_598"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 86000,
+    "company_location": "Alpharetta, GA",
+    "company_name": "BOEING",
+    "company_score": 4.1,
+    "date": "1d",
+    "job_id": "software_engineering_599"
+  },
+  {
+    "job_title": "Sr. DevOps Engineer",
+    "salary_in_usd": 130500,
+    "company_location": "Remote",
+    "company_name": "Braum's",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_600"
+  },
+  {
+    "job_title": "Software Engineer - Mid Level",
+    "salary_in_usd": 140000,
+    "company_location": "Annapolis Junction, MD",
+    "company_name": "Cummings Aerospace Inc",
+    "company_score": 2.5,
+    "date": "17d",
+    "job_id": "software_engineering_601"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 162000,
+    "company_location": "Oklahoma City, OK",
+    "company_name": "T.M. Bier & Associates",
+    "company_score": 4.4,
+    "date": "6d",
+    "job_id": "software_engineering_602"
+  },
+  {
+    "job_title": "Software Engineer-Mid Level",
+    "salary_in_usd": 117500,
+    "company_location": "Largo, FL",
+    "company_name": "Zelis",
+    "company_score": 3.9,
+    "date": "3d",
+    "job_id": "software_engineering_603"
+  },
+  {
+    "job_title": "Frontend Software Engineer Graduate, TikTok Infrastructure - 2025 Start (BS/MS)",
+    "salary_in_usd": 94500,
+    "company_location": "San Jose, CA",
+    "company_name": "CVS Health",
+    "company_score": 3.0,
+    "date": "10d",
+    "job_id": "software_engineering_604"
+  },
+  {
+    "job_title": "Eaton Development Program: Engineering Technology - Software",
+    "salary_in_usd": 99500,
+    "company_location": "Peachtree City, GA",
+    "company_name": "Zoox",
+    "company_score": 3.7,
+    "date": "5d",
+    "job_id": "software_engineering_605"
+  },
+  {
+    "job_title": "Software Development Engineer",
+    "salary_in_usd": 181500,
+    "company_location": "Hartford, CT",
+    "company_name": "Radiance Technologies",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_606"
+  },
+  {
+    "job_title": "Senior Fullstack Software Engineer - Perception Metrics Platform",
+    "salary_in_usd": 130000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Boston Consulting Group",
+    "company_score": 4.2,
+    "date": "19d",
+    "job_id": "software_engineering_607"
+  },
+  {
+    "job_title": "Full Stack Software Engineer",
+    "salary_in_usd": 104000,
+    "company_location": "Beavercreek, OH",
+    "company_name": "Sage",
+    "company_score": 3.5,
+    "date": "13d",
+    "job_id": "software_engineering_608"
+  },
+  {
+    "job_title": "AI Software Engineer, Campus, United States - BCG X",
+    "salary_in_usd": 170000,
+    "company_location": "Los Angeles, CA",
+    "company_name": "Neurable",
+    "company_score": 4.4,
+    "date": "4d",
+    "job_id": "software_engineering_609"
+  },
+  {
+    "job_title": "Software Engineer - C#, C++",
+    "salary_in_usd": 137000,
+    "company_location": "Lawrenceville, GA",
+    "company_name": "ASM International",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_610"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 165000,
+    "company_location": "Boston, MA",
+    "company_name": "Galvion",
+    "company_score": 4.0,
+    "date": "9d",
+    "job_id": "software_engineering_611"
+  },
+  {
+    "job_title": "Field Software Support Engineer",
+    "salary_in_usd": 109000,
+    "company_location": "Hillsboro, OR",
+    "company_name": "Prophet Software",
+    "company_score": 3.6,
+    "date": "30d+",
+    "job_id": "software_engineering_612"
+  },
+  {
+    "job_title": "Associate Software Engineer (on-site)",
+    "salary_in_usd": 140000,
+    "company_location": "Portsmouth, NH",
+    "company_name": "Ansira",
+    "company_score": 4.1,
+    "date": "1d",
+    "job_id": "software_engineering_613"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 214000,
+    "company_location": "Westlake Village, CA",
+    "company_name": "Elder Research",
+    "company_score": 4.7,
+    "date": "16d",
+    "job_id": "software_engineering_614"
+  },
+  {
+    "job_title": "Backend Software Engineer",
+    "salary_in_usd": 210500,
+    "company_location": "Fort George G Meade, MD",
+    "company_name": "AB2 Consulting, Inc.",
+    "company_score": 3.2,
+    "date": "30d+",
+    "job_id": "software_engineering_615"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 231500,
+    "company_location": "San Diego, CA",
+    "company_name": "University of Maryland",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_616"
+  },
+  {
+    "job_title": "Software Development Engineer in Test (SDET) / Okemos, MI (Hybrid)",
+    "salary_in_usd": 168000,
+    "company_location": "Okemos, MI",
+    "company_name": "CPI Card Group",
+    "company_score": 3.6,
+    "date": "10d",
+    "job_id": "software_engineering_617"
+  },
+  {
+    "job_title": "Research Software and Data Engineer",
+    "salary_in_usd": 85000,
+    "company_location": "College Park, MD",
+    "company_name": "Simplot",
+    "company_score": 3.8,
+    "date": "5d",
+    "job_id": "software_engineering_618"
+  },
+  {
+    "job_title": "Software Process Engineer",
+    "salary_in_usd": 130000,
+    "company_location": "Fort Wayne, IN",
+    "company_name": "Walmart Advanced Systems and Robotics",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_619"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 164000,
+    "company_location": "Boise, ID",
+    "company_name": "Fanatics Inc.",
+    "company_score": 3.5,
+    "date": "12d",
+    "job_id": "software_engineering_620"
+  },
+  {
+    "job_title": "Senior Software Engineer \u2013 Emulation",
+    "salary_in_usd": 88500,
+    "company_location": "Andover, MA",
+    "company_name": "GE HEALTHCARE",
+    "company_score": 4.0,
+    "date": "25d",
+    "job_id": "software_engineering_621"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 196500,
+    "company_location": "Washington, DC",
+    "company_name": "WSSC Water",
+    "company_score": 5.0,
+    "date": "30d+",
+    "job_id": "software_engineering_622"
+  },
+  {
+    "job_title": "Cloud Engineer",
+    "salary_in_usd": 105000,
+    "company_location": "Chicago, IL",
+    "company_name": "RVO Health",
+    "company_score": 4.0,
+    "date": "5d",
+    "job_id": "software_engineering_623"
+  },
+  {
+    "job_title": "Engineering Software Administrator (e-Builder, Primavera P6)",
+    "salary_in_usd": 92500,
+    "company_location": "Laurel, MD",
+    "company_name": "Wisenbaker Builder Services",
+    "company_score": 3.8,
+    "date": "2d",
+    "job_id": "software_engineering_624"
+  },
+  {
+    "job_title": "2025 Early Career Program: Software Engineering",
+    "salary_in_usd": 167500,
+    "company_location": "Charlotte, NC",
+    "company_name": "Optum",
+    "company_score": 3.0,
+    "date": "4d",
+    "job_id": "software_engineering_625"
+  },
+  {
+    "job_title": "CAD Software Engineer (Cabinets)",
+    "salary_in_usd": 207000,
+    "company_location": "Hillsboro, TX",
+    "company_name": "SoFi",
+    "company_score": 3.9,
+    "date": "12d",
+    "job_id": "software_engineering_626"
+  },
+  {
+    "job_title": "Senior AI/ML Software Engineer, Java - Remote",
+    "salary_in_usd": 115000,
+    "company_location": "Eden Prairie, MN",
+    "company_name": "Fanatics Inc.",
+    "company_score": 4.1,
+    "date": "3d",
+    "job_id": "software_engineering_627"
+  },
+  {
+    "job_title": "Staff Software Engineer, At Work",
+    "salary_in_usd": 149000,
+    "company_location": "Seattle, WA",
+    "company_name": "Micron",
+    "company_score": 3.4,
+    "date": "2d",
+    "job_id": "software_engineering_628"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 106000,
+    "company_location": "New York, NY",
+    "company_name": "Boeing",
+    "company_score": 3.5,
+    "date": "18d",
+    "job_id": "software_engineering_629"
+  },
+  {
+    "job_title": "IT Software Engineer",
+    "salary_in_usd": 90500,
+    "company_location": "Boise, ID",
+    "company_name": "bellelynn",
+    "company_score": 3.6,
+    "date": "30d+",
+    "job_id": "software_engineering_630"
+  },
+  {
+    "job_title": "Software Engineer 3 - Front End (contract)",
+    "salary_in_usd": 166500,
+    "company_location": "El Segundo, CA",
+    "company_name": "Bertrandt",
+    "company_score": 3.8,
+    "date": "3d",
+    "job_id": "software_engineering_631"
+  },
+  {
+    "job_title": "Sr Software Engineer",
+    "salary_in_usd": 96500,
+    "company_location": "Columbia, MD",
+    "company_name": "Amazon.com Services LLC",
+    "company_score": 3.7,
+    "date": "3d",
+    "job_id": "software_engineering_632"
+  },
+  {
+    "job_title": "Automotive Software Engineer",
+    "salary_in_usd": 176500,
+    "company_location": "Sterling Heights, MI",
+    "company_name": "Salesforce",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_633"
+  },
+  {
+    "job_title": "Front End Engineer, Sponsored Brands - Fixed",
+    "salary_in_usd": 112500,
+    "company_location": "New York, NY",
+    "company_name": "Ford Motor Company",
+    "company_score": 4.2,
+    "date": "4d",
+    "job_id": "software_engineering_634"
+  },
+  {
+    "job_title": "Software Engineering LMTS",
+    "salary_in_usd": 117500,
+    "company_location": "Bellevue, WA",
+    "company_name": "EAI Technologies",
+    "company_score": 3.8,
+    "date": "4d",
+    "job_id": "software_engineering_635"
+  },
+  {
+    "job_title": "Software Engineer - Global Order Bank",
+    "salary_in_usd": 75500,
+    "company_location": "Dearborn, MI",
+    "company_name": "Mahlet",
+    "company_score": 4.1,
+    "date": "16d",
+    "job_id": "software_engineering_636"
+  },
+  {
+    "job_title": "Physics/Math Graduate - Entry Level Software Developer",
+    "salary_in_usd": 127500,
+    "company_location": "Vienna, VA",
+    "company_name": "New River Systems Corporation",
+    "company_score": 4.4,
+    "date": "30d+",
+    "job_id": "software_engineering_637"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 122000,
+    "company_location": "Burtonsville, MD",
+    "company_name": "REV Robotics",
+    "company_score": 4.6,
+    "date": "16d",
+    "job_id": "software_engineering_638"
+  },
+  {
+    "job_title": "SENIOR SOFTWARE ENGINEER",
+    "salary_in_usd": 217500,
+    "company_location": "Carrollton, TX",
+    "company_name": "Enersys",
+    "company_score": 3.6,
+    "date": "5d",
+    "job_id": "software_engineering_639"
+  },
+  {
+    "job_title": "Full Stack Software Engineer Level 1",
+    "salary_in_usd": 127000,
+    "company_location": "Arlington, VA",
+    "company_name": "University of Washington",
+    "company_score": 4.7,
+    "date": "30d+",
+    "job_id": "software_engineering_640"
+  },
+  {
+    "job_title": "Product Engineer I",
+    "salary_in_usd": 115000,
+    "company_location": "Longmont, CO",
+    "company_name": "Hewlett Packard",
+    "company_score": 3.8,
+    "date": "24h",
+    "job_id": "software_engineering_641"
+  },
+  {
+    "job_title": "SOFTWARE ENGINEER",
+    "salary_in_usd": 122500,
+    "company_location": "Seattle, WA",
+    "company_name": "Movius Interactive Corporation",
+    "company_score": 3.4,
+    "date": "30d+",
+    "job_id": "software_engineering_642"
+  },
+  {
+    "job_title": "Cloud Software Development Engineer",
+    "salary_in_usd": 107500,
+    "company_location": "Fort Collins, CO",
+    "company_name": "Noblis",
+    "company_score": 4.1,
+    "date": "11d",
+    "job_id": "software_engineering_643"
+  },
+  {
+    "job_title": "Software Engineer - Backend Voice",
+    "salary_in_usd": 74500,
+    "company_location": "Fremont, CA",
+    "company_name": "CEDENT",
+    "company_score": 3.7,
+    "date": "1d",
+    "job_id": "software_engineering_644"
+  },
+  {
+    "job_title": "Software Engineer (All Levels)",
+    "salary_in_usd": 103000,
+    "company_location": "McLean, VA",
+    "company_name": "Bank of America",
+    "company_score": 3.5,
+    "date": "30d+",
+    "job_id": "software_engineering_645"
+  },
+  {
+    "job_title": "Software System Engineer (C++, JAVA background)",
+    "salary_in_usd": 146000,
+    "company_location": "Warren, MI",
+    "company_name": "LinQuest Corporation",
+    "company_score": 4.3,
+    "date": "30d+",
+    "job_id": "software_engineering_646"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "salary_in_usd": 111500,
+    "company_location": "Charlotte, NC",
+    "company_name": "Hewlett Packard",
+    "company_score": 3.5,
+    "date": "3d",
+    "job_id": "software_engineering_647"
+  },
+  {
+    "job_title": "Experienced Front-End Engineer",
+    "salary_in_usd": 95000,
+    "company_location": "Fort Collins, CO",
+    "company_name": "Federal Reserve Bank of Boston",
+    "company_score": 4.1,
+    "date": "14d",
+    "job_id": "software_engineering_648"
+  },
+  {
+    "job_title": "Software Developer",
+    "salary_in_usd": 197000,
+    "company_location": "Austin, TX",
+    "company_name": "Collins Aerospace",
+    "company_score": 3.5,
+    "date": "2d",
+    "job_id": "software_engineering_649"
+  },
+  {
+    "job_title": "Full-Stack Software Engineer \u2013 Digital Money and Payments Research & Development",
+    "salary_in_usd": 216500,
+    "company_location": "Boston, MA",
+    "company_name": "Apriva",
+    "company_score": 3.9,
+    "date": "30d+",
+    "job_id": "software_engineering_650"
+  },
+  {
+    "job_title": "Software Engineering Co-op (Summer/Fall 2025) (Onsite)",
+    "salary_in_usd": 134500,
+    "company_location": "Cedar Rapids, IA",
+    "company_name": "ASEC",
+    "company_score": 3.9,
+    "date": "2d",
+    "job_id": "software_engineering_651"
+  },
+  {
+    "job_title": "Software Engineer IV",
+    "salary_in_usd": 87500,
+    "company_location": "Phoenix, AZ",
+    "company_name": "T. Rowe Price",
+    "company_score": 4.6,
+    "date": "27d",
+    "job_id": "software_engineering_652"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 160000,
+    "company_location": "Patuxent River, MD",
+    "company_name": "S&S Activewear LLC",
+    "company_score": 3.8,
+    "date": "16d",
+    "job_id": "software_engineering_653"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 126000,
+    "company_location": "Owings Mills, MD",
+    "company_name": "Peterson Technologies",
+    "company_score": 4.0,
+    "date": "23d",
+    "job_id": "software_engineering_654"
+  },
+  {
+    "job_title": "Senior Software Engineer (Hybrid Available)",
+    "salary_in_usd": 161500,
+    "company_location": "Bolingbrook, IL",
+    "company_name": "LongPath Technologies, Inc.",
+    "company_score": 3.7,
+    "date": "22d",
+    "job_id": "software_engineering_655"
+  },
+  {
+    "job_title": "Mid Level Software Engineer",
+    "salary_in_usd": 106000,
+    "company_location": "Hanover, MD",
+    "company_name": "Gradient",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_656"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 115000,
+    "company_location": "Boulder, CO",
+    "company_name": "Amazon.com Services LLC",
+    "company_score": 4.2,
+    "date": "18d",
+    "job_id": "software_engineering_657"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 195500,
+    "company_location": "Burlingame, CA",
+    "company_name": "ENVISN INCORPORATED",
+    "company_score": 3.7,
+    "date": "2d",
+    "job_id": "software_engineering_658"
+  },
+  {
+    "job_title": "Software Development Engineer II, Sort Tech",
+    "salary_in_usd": 117500,
+    "company_location": "Tempe, AZ",
+    "company_name": "Intersoft Data Labs",
+    "company_score": 3.5,
+    "date": "3d",
+    "job_id": "software_engineering_659"
+  },
+  {
+    "job_title": "Software Quality Assurance (Tester) Engineer",
+    "salary_in_usd": 192000,
+    "company_location": "Indianola, PA",
+    "company_name": "Digital Insight Printing",
+    "company_score": 4.1,
+    "date": "9d",
+    "job_id": "software_engineering_660"
+  },
+  {
+    "job_title": "Software Engineer (Onsite)",
+    "salary_in_usd": 316500,
+    "company_location": "Columbia, MD",
+    "company_name": "Teradyne",
+    "company_score": 3.6,
+    "date": "25d",
+    "job_id": "software_engineering_661"
+  },
+  {
+    "job_title": "Magento Developer",
+    "salary_in_usd": 121500,
+    "company_location": "Remote",
+    "company_name": "Beshenich Muir & Associates Llc",
+    "company_score": 4.6,
+    "date": "24h",
+    "job_id": "software_engineering_662"
+  },
+  {
+    "job_title": "Software Machine Learning Engineer",
+    "salary_in_usd": 161000,
+    "company_location": "North Reading, MA",
+    "company_name": "Powermind Solutions",
+    "company_score": 4.6,
+    "date": "3d",
+    "job_id": "software_engineering_663"
+  },
+  {
+    "job_title": "Software Systems Engineer",
+    "salary_in_usd": 116500,
+    "company_location": "Fort Belvoir, VA",
+    "company_name": "Plaid",
+    "company_score": 3.7,
+    "date": "30d+",
+    "job_id": "software_engineering_664"
+  },
+  {
+    "job_title": "Software Engineer - Credit",
+    "salary_in_usd": 183000,
+    "company_location": "San Francisco, CA",
+    "company_name": "ShipperHQ",
+    "company_score": 4.0,
+    "date": "30d+",
+    "job_id": "software_engineering_665"
+  },
+  {
+    "job_title": "Sr. Software Engineer - Site Reliability",
+    "salary_in_usd": 66500,
+    "company_location": "Austin, TX",
+    "company_name": "DCS Corp",
+    "company_score": 3.9,
+    "date": "16d",
+    "job_id": "software_engineering_666"
+  },
+  {
+    "job_title": "Cleared Software Engineer",
+    "salary_in_usd": 176500,
+    "company_location": "Denver, CO",
+    "company_name": "Bank of America",
+    "company_score": 3.4,
+    "date": "3d",
+    "job_id": "software_engineering_667"
+  },
+  {
+    "job_title": "Data Center Services - Software Engineer",
+    "salary_in_usd": 101000,
+    "company_location": "Plano, TX",
+    "company_name": "Bio-Rad Laboratories, Inc.",
+    "company_score": 4.1,
+    "date": "8d",
+    "job_id": "software_engineering_668"
+  },
+  {
+    "job_title": "Software Dev Engineer, L5 , SFSC Integrations",
+    "salary_in_usd": 179000,
+    "company_location": "Seattle, WA",
+    "company_name": "Audacy, Inc.",
+    "company_score": 4.8,
+    "date": "23d",
+    "job_id": "software_engineering_669"
+  },
+  {
+    "job_title": "Software Developer in Test",
+    "salary_in_usd": 99500,
+    "company_location": "Hercules, CA",
+    "company_name": "CyberKorp",
+    "company_score": 4.2,
+    "date": "10d",
+    "job_id": "software_engineering_670"
+  },
+  {
+    "job_title": "Senior Software Engineer",
+    "salary_in_usd": 88000,
+    "company_location": "Denver, CO",
+    "company_name": "Leidos",
+    "company_score": 3.5,
+    "date": "4d",
+    "job_id": "software_engineering_671"
+  },
+  {
+    "job_title": "Junior Java Software Engineer",
+    "salary_in_usd": 259000,
+    "company_location": "Fort Meade, MD",
+    "company_name": "Tesla",
+    "company_score": 4.1,
+    "date": "30d+",
+    "job_id": "software_engineering_672"
+  },
+  {
+    "job_title": "Apprentice ETL Software Engineer",
+    "salary_in_usd": 272500,
+    "company_location": "Elkridge, MD",
+    "company_name": "OpenAI",
+    "company_score": 3.1,
+    "date": "30d+",
+    "job_id": "software_engineering_673"
+  },
+  {
+    "job_title": "Software Engineer, Tool & Infrastructure, Reliability & Test",
+    "salary_in_usd": 222000,
+    "company_location": "Palo Alto, CA",
+    "company_name": "NCR Atleos",
+    "company_score": 3.9,
+    "date": "1d",
+    "job_id": "software_engineering_674"
+  },
+  {
+    "job_title": "Software Engineer, Engineering Acceleration",
+    "salary_in_usd": 100000,
+    "company_location": "San Francisco, CA",
+    "company_name": "Electronic Warfare Associates",
+    "company_score": 3.8,
+    "date": "5d",
+    "job_id": "software_engineering_675"
+  },
+  {
+    "job_title": "ATM Software Engineer (Level III)",
+    "salary_in_usd": 88000,
+    "company_location": "Frisco, TX",
+    "company_name": "BillGO, Inc.",
+    "company_score": 3.3,
+    "date": "30d+",
+    "job_id": "software_engineering_676"
+  },
+  {
+    "job_title": "Software Engineer",
+    "salary_in_usd": 119000,
+    "company_location": "Mount Laurel, NJ",
+    "company_name": "Genesys",
+    "company_score": 3.6,
+    "date": "30d+",
+    "job_id": "software_engineering_677"
+  }
+]
