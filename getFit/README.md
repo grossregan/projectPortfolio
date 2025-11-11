@@ -1,5 +1,4 @@
-# agile_avengers_get_fit
-
+# Agile Avengers Get Fit App
 agile_avengers_get_fit is a multi-platform Flutter application scaffolded with Firebase support. It contains platform-specific runners (Android, iOS, macOS, Linux, Windows, Web) and example integration with Firebase (see `lib/firebase_options.dart` and `firebase.json`). It is a prototype build of an application that would allow users to track and build workouts, keep a history of their workouts, lifts, and records, and visualize their progress on a graph.
 
 ## Quick summary
@@ -91,4 +90,11 @@ This was a group project!! My contributions are as follows:
 This project template does not include a specific license file. If you plan to publish or share the code, add a `LICENSE` file at the repository root and mention the license here.
 
 ---
+<img width="254" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/e18288df-933f-49ab-abda-61af82cc76bc" />
+<img width="254" height="512" alt="FinalPageWhiteTheme" src="https://github.com/user-attachments/assets/db170f06-831a-41f7-aa03-b51f918fe1fa" />
+<img width="254" height="512" alt="FinalPageDarkTheme" src="https://github.com/user-attachments/assets/ee7aece5-3e29-4d33-b3bb-f5b93772c962" />
+<img width="254" height="512" alt="FinalInstructionsLight" src="https://github.com/user-attachments/assets/0a90f80c-2280-4e89-a7ec-55bd6294d3fc" />
+<img width="254" height="512" alt="FInalDarkInstructions" src="https://github.com/user-attachments/assets/01fe07de-7a76-4c69-8f2a-484ce9bc2285" />
+
+
 
