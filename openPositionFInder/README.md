@@ -83,3 +83,9 @@ This was a collaborative team project. In the interest of giving credit where cr
 * **API Integration:** Handled the respective API integrations for the homescreen (fetching jobs), favorites (persisting data), and resource pages.
 
 The remaining features, such as the custom search and job comparison logic, were built by other team members.
+<img width="254" height="512" alt="Screenshot_1746562194" src="https://github.com/user-attachments/assets/5c7c818f-ef2a-4a91-a5c7-a967dd538a6d" />
+<img width="254" height="512" alt="Screenshot_1746562198" src="https://github.com/user-attachments/assets/4a96f0b9-e4c0-4ea9-bc9b-b89b0da956a5" />
+<img width="254" height="512" alt="Screenshot_1746562229" src="https://github.com/user-attachments/assets/4fe1f8a2-985d-47a8-9306-0bc0ee0de633" />
+<img width="254" height="512" alt="Screenshot_1746562213" src="https://github.com/user-attachments/assets/78653727-c3be-404c-a25e-362bf5964470" />
+<img width="254" height="512" alt="Screenshot_1746562202" src="https://github.com/user-attachments/assets/c3049082-8065-4a9e-bb39-36f6922f937b" />
+
