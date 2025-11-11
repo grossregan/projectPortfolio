@@ -36,12 +36,12 @@ Follow these instructions to get a local copy of the project up and running on y
 1.  **Clone the Repository:**
     Open your terminal and clone the project repository.
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/grossregan/projectPortfolio/tree/150f8e372189284f271bd90cec922b2198848692/openPositionFInder
     ```
 
 2.  **Navigate to Project Directory:**
     ```bash
-    cd <project-directory-name>
+    cd ../openPositionFInder
     ```
 
 3.  **Install Dependencies:**
