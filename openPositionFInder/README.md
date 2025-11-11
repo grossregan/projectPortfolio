@@ -1,16 +1,85 @@
 # Software Engineering Final Project
 
-A new job finder for Software Engineering and Data Science roles
+A mobile application prototype for a job finder targeting Software Engineering and Data Science roles.
+
+## Application Overview
+
+This project is a React Native mobile application, built using Expo, designed to streamline the job search process for tech professionals. It aggregates job listings and provides a suite of tools to help users find, compare, and manage opportunities.
+
+### Key Features
+
+* **Dual-Tab Homescreen:** An intuitive layout sorting positions by type (e.g., Software Engineering vs. Data Science) for focused browsing.
+* **Custom Search:** Efficiently filter and find specific positions based on user-defined criteria.
+* **Favorites System:** Allows users to save jobs of interest for later review.
+* **Side-by-Side Comparison:** A unique feature enabling users to compare two job listings directly by pressing and holding the respective job cards.
+* **Interview Resources:** A curated list of resources within the application to help users prepare for interviews.
+
+---
 
 ## Getting Started
 
-This project is a prototype for a new job finder.
+Follow these instructions to get a local copy of the project up and running on your development machine.
 
-To run the application, use Expo:
-[Step by Step on starting expo]
+### Prerequisites
 
-## Application Overview
-This job finder includes a custom search to efficiently find positions of interest, an intuitive dual-tab homescreen layout to sort positions by type, and the ability to favorite jobs of interest. To help you find the right fit, we have included the ability to compare two positions side-by-side by pressing and holding the job cards in question. In addition, you can find a convenient list of interview resources within the project for when you land the interview for your dream role.
+* **Node.js** (LTS version recommended)
+* **npm** or **yarn** package manager
+* **Git** for cloning the repository
+* **Expo Go App** (for running on a physical device)
+    * [Apple App Store](https://apps.apple.com/us/app/expo-go/id982107779)
+    * [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
+* (Optional) **iOS Simulator** (requires Xcode for macOS)
+* (Optional) **Android Emulator** (requires Android Studio)
+
+### Installation & Launch
+
+1.  **Clone the Repository:**
+    Open your terminal and clone the project repository.
+    ```bash
+    git clone <your-repository-url>
+    ```
+
+2.  **Navigate to Project Directory:**
+    ```bash
+    cd <project-directory-name>
+    ```
+
+3.  **Install Dependencies:**
+    Using npm:
+    ```bash
+    npm install
+    ```
+    Or using yarn:
+    ```bash
+    yarn install
+    ```
+
+4.  **Start the Development Server:**
+    This command starts the Metro bundler and provides options to run the app.
+    ```bash
+    npx expo start
+    ```
+
+5.  **Run the Application:**
+    After starting the server, you will see a QR code in your terminal and a browser window (Expo Dev Tools) will open.
+
+    * **To run on a physical device (Recommended):**
+        1.  Install the **Expo Go** app on your iOS or Android phone.
+        2.  Scan the QR code from your terminal or the Expo Dev Tools webpage using your phone's camera or the Expo Go app.
+
+    * **To run on a simulator:**
+        1.  In the terminal where the server is running, press `i` to launch the iOS Simulator (macOS only).
+        2.  In the terminal, press `a` to launch the Android Emulator (requires Android Studio to be set up).
+
+---
 
 ## My Contribution
-This was a team project!! In the interest of giving credit where credit is due, I built the homescreen, favorites page, interview resource page, and the respective API integrations for each of them. The remaining features were built by other team members.
+
+This was a collaborative team project. In the interest of giving credit where credit is due, my specific contributions included:
+
+* **Homescreen:** Developed the dual-tab UI/UX and logic for sorting and displaying job listings.
+* **Favorites Page:** Implemented the screen to display all user-favorited jobs, including the logic for saving and removing items.
+* **Interview Resource Page:** Built the static resource page providing helpful links and materials for interview preparation.
+* **API Integration:** Handled the respective API integrations for the homescreen (fetching jobs), favorites (persisting data), and resource pages.
+
+The remaining features, such as the custom search and job comparison logic, were built by other team members.
